@@ -10,6 +10,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    color: white;
+    background-color: black;
 }
 
 .container {
@@ -21,15 +23,35 @@ body {
 }
 
 .header {
-    border: 1px solid black;
-}
-.options {
-    border: 1px solid black;
-}
-.results {
-    border: 1px solid black;
+    border: 1px solid white;
 }
 
-@media screen and (max-width: 768px) {
-    
+.options {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid white;
 }
+
+.games_options {
+    /* display: flex; */
+    /* flex-direction: row; */
+    width: 50%;
+}
+
+.games_list {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.pokemon_options {
+    /* display: flex;
+    flex-direction: column; */
+    width: 50%;
+}
+
+.results {
+    border: 1px solid white;
+}
+
+@media screen and (max-width: 768px) {}

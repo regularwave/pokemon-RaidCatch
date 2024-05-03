@@ -18,18 +18,57 @@
 <body onload="setup()">
     <div class="container">
         <div class="header" id="header">RaidCatch</div>
-        <div class="options" id="options">
-            <span >Choose Pokemon:</span>
-            <br>
-            <label for="amname">A-M:</label>
-            <input list="ampokemon" name="amname" id="amname">
-            <datalist id="ampokemon"></datalist>
-            <br>
-            <label for="nzname">N-Z:</label>
-            <input list="nzpokemon" name="nzname" id="nzname">
-            <datalist id="nzpokemon"></datalist>
-            <br>
-            <input type="button" value="list pokemon in raids" onclick="button()">
+        <div class="options">
+            <div class="games_options">
+                <span>Available Games:</span><br>
+                <div class="games_list">
+                    <div>
+                        <span>Gen VIII</span>
+                        <div>
+                            <input type="checkbox" name="chksword" id="chksword" checked>
+                            <label for="chksword">Sword</label>
+                        </div>
+                        <div>
+                            <input type="checkbox" name="chkshield" id="chkshield" checked>
+                            <label for="chkshield">Shield</label>
+                        </div>
+                        <div>
+                            <input type="checkbox" name="chkg8dlc" id="chkg8dlc" checked>
+                            <label for="chkg8dlc">DLC</label>
+                        </div>
+                    </div>
+                    <div>
+                        <span>Gen IX</span>
+                        <div>
+                            <input type="checkbox" name="chkscarlet" id="chkscarlet" checked>
+                            <label for="chkscarlet">Scarlet</label>
+                        </div>
+                        <div>
+                            <input type="checkbox" name="chkviolet" id="chkviolet" checked>
+                            <label for="chkviolet">Violet</label>
+                        </div>
+                        <div>
+                            <input type="checkbox" name="chkg9dlc" id="chkg9dlc" checked>
+                            <label for="chkg9dlc">DLC</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pokemon_options">
+                <span>Choose Pokemon:</span>
+                <div>
+                    <label for="amname">A-M:</label>
+                    <input list="ampokemon" name="amname" id="amname">
+                    <datalist id="ampokemon"></datalist>
+                </div>
+                <div>
+                    <label for="nzname">N-Z:</label>
+                    <input list="nzpokemon" name="nzname" id="nzname">
+                    <datalist id="nzpokemon"></datalist>
+                </div>
+                <input type="button" value="list pokemon in raids" onclick="button()">
+            </div>
+
         </div>
         <div class="results" id="results">
             <span class="results"></span>
