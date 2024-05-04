@@ -11,47 +11,57 @@ body {
     flex-direction: column;
     align-items: center;
     color: white;
-    background-color: black;
+    font-size: 1.2em;
+    background-color: #555555;
+    background-image: url("./img/mewshirt.webp");
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
 }
 
 .container {
-    border: 1px dotted red;
+    /* border: 1px dotted red; */
     width: 95%;
     display: flex;
     flex-direction: column;
     gap: 2px;
-}
-
-.header {
-    border: 1px solid white;
+    background-color: rgba(1, 1, 1, 0.8);
 }
 
 .options {
-    display: flex;
-    flex-direction: row;
     border: 1px solid white;
-}
-
-.games_options {
-    /* display: flex; */
-    /* flex-direction: row; */
-    width: 50%;
-}
-
-.games_list {
     display: flex;
     flex-direction: row;
-    margin: auto;
+    /* padding: 2px; */
+    /* gap: 2px; */
+}
+
+.text {
+    border: 1px solid white;
+    width: auto;
 }
 
 .pokemon_options {
-    /* display: flex;
-    flex-direction: column; */
+    border: 1px solid white;
     width: 50%;
+    /* width:50%; */
 }
 
 .results {
     border: 1px solid white;
+}
+
+table {
+    width: 100%;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid white;
+}
+
+th, td {
+    padding: 5px;
 }
 
 @media screen and (max-width: 768px) {}
