@@ -289,8 +289,6 @@ Avalugg,Sword,Galar,Den 73
 Avalugg,Sword,Isle of Armor,Den 147
 Avalugg,Violet,Paldea,5☆
 Avalugg,Violet,Paldea,6☆
-Average Size,Shield,Crown Tundra,Dynamax Adventure
-Average Size,Sword,Crown Tundra,Dynamax Adventure
 Axew,Scarlet,Paldea,3☆
 Axew,Shield,Galar,Den 37
 Axew,Shield,Galar,Den 64
@@ -367,8 +365,6 @@ Basculin,Scarlet,Kitakami,3☆
 Basculin,Scarlet,Paldea,3☆
 Basculin,Shield,Crown Tundra,Den 162
 Basculin,Shield,Crown Tundra,Den 163
-Basculin,Shield,Crown Tundra,Dynamax Adventure
-Basculin,Shield,Crown Tundra,Dynamax Adventure
 Basculin,Shield,Galar,Den 44
 Basculin,Shield,Galar,Den 67
 Basculin,Shield,Galar,Den 7
@@ -380,8 +376,6 @@ Basculin,Shield,Isle of Armor,Den 136
 Basculin,Shield,Isle of Armor,Den 148
 Basculin,Sword,Crown Tundra,Den 162
 Basculin,Sword,Crown Tundra,Den 163
-Basculin,Sword,Crown Tundra,Dynamax Adventure
-Basculin,Sword,Crown Tundra,Dynamax Adventure
 Basculin,Sword,Galar,Den 44
 Basculin,Sword,Galar,Den 67
 Basculin,Sword,Galar,Den 7
@@ -393,6 +387,10 @@ Basculin,Sword,Isle of Armor,Den 136
 Basculin,Sword,Isle of Armor,Den 148
 Basculin,Violet,Kitakami,3☆
 Basculin,Violet,Paldea,3☆
+Basculin (Blue-striped),Shield,Crown Tundra,Dynamax Adventure
+Basculin (Blue-striped),Sword,Crown Tundra,Dynamax Adventure
+Basculin (Red-striped),Shield,Crown Tundra,Dynamax Adventure
+Basculin (Red-striped),Sword,Crown Tundra,Dynamax Adventure
 Bastiodon,Violet,Terarium,4☆
 Baxcalibur,Scarlet,Paldea,5☆
 Baxcalibur,Scarlet,Paldea,6☆
@@ -581,8 +579,6 @@ Blissey,Violet,Paldea,5☆
 Blissey,Violet,Paldea,6☆
 Blitzle,Scarlet,Terarium,1☆
 Blitzle,Violet,Terarium,1☆
-Blue-striped,Shield,Crown Tundra,Dynamax Adventure
-Blue-striped,Sword,Crown Tundra,Dynamax Adventure
 Boldore,Shield,Crown Tundra,Dynamax Adventure
 Boldore,Shield,Galar,Den 15
 Boldore,Shield,Galar,Den 3
@@ -1669,8 +1665,6 @@ Dwebble,Sword,Galar,Den 83
 Dwebble,Sword,Galar,Den 90
 Dwebble,Sword,Galar,Den 92
 Dwebble,Sword,Isle of Armor,Den 109
-East Sea,Shield,Crown Tundra,Dynamax Adventure
-East Sea,Sword,Crown Tundra,Dynamax Adventure
 Eelektrik,Scarlet,Paldea,4☆
 Eelektrik,Violet,Paldea,4☆
 Eelektross,Scarlet,Paldea,5☆
@@ -2088,19 +2082,19 @@ Gastly,Sword,Galar,Den 43
 Gastly,Sword,Galar,Den 6
 Gastly,Violet,Paldea,2☆
 Gastrodon,Scarlet,Paldea,4☆
-Gastrodon,Shield,Crown Tundra,Dynamax Adventure
 Gastrodon,Shield,Galar,Den 42
 Gastrodon,Shield,Galar,Den 52
 Gastrodon,Shield,Galar,Den 78
 Gastrodon,Shield,Galar,Den 8
 Gastrodon,Shield,Galar,Den 93
-Gastrodon,Sword,Crown Tundra,Dynamax Adventure
 Gastrodon,Sword,Galar,Den 42
 Gastrodon,Sword,Galar,Den 52
 Gastrodon,Sword,Galar,Den 78
 Gastrodon,Sword,Galar,Den 8
 Gastrodon,Sword,Galar,Den 93
 Gastrodon,Violet,Paldea,4☆
+Gastrodon (East Sea),Shield,Crown Tundra,Dynamax Adventure
+Gastrodon (East Sea),Sword,Crown Tundra,Dynamax Adventure
 Gengar,Scarlet,Paldea,5☆
 Gengar,Scarlet,Paldea,6☆
 Gengar,Shield,Crown Tundra,Den 183
@@ -2118,8 +2112,6 @@ Gible,Scarlet,Paldea,3☆
 Gible,Shield,Crown Tundra,Den 184
 Gible,Shield,Crown Tundra,Den 185
 Gible,Violet,Paldea,3☆
-Gigabtamax,Shield,Crown Tundra,Dynamax Adventure
-Gigabtamax,Sword,Crown Tundra,Dynamax Adventure
 Gigalith,Shield,Galar,Den 15
 Gigalith,Shield,Galar,Den 3
 Gigalith,Shield,Isle of Armor,Den 115
@@ -2130,8 +2122,8 @@ Gigalith,Sword,Isle of Armor,Den 115
 Gigalith,Sword,Isle of Armor,Den 116
 Girafarig,Scarlet,Paldea,3☆
 Girafarig,Violet,Paldea,3☆
-Giratina Altered,Shield,Crown Tundra,Dynamax Adventure
-Giratina Altered,Sword,Crown Tundra,Dynamax Adventure
+Giratina (Altered),Shield,Crown Tundra,Dynamax Adventure
+Giratina (Altered),Sword,Crown Tundra,Dynamax Adventure
 Glaceon,Scarlet,Paldea,6☆
 Glaceon,Shield,Crown Tundra,Den 194
 Glaceon,Shield,Crown Tundra,Den 195
@@ -2273,16 +2265,16 @@ Gothorita,Scarlet,Paldea,3☆
 Gothorita,Sword,Crown Tundra,Den 178
 Gothorita,Sword,Galar,Den 2
 Gothorita,Violet,Paldea,3☆
-Gourgeist,Shield,Crown Tundra,Dynamax Adventure
 Gourgeist,Shield,Galar,Den 28
 Gourgeist,Shield,Galar,Den 6
 Gourgeist,Shield,Isle of Armor,Den 128
-Gourgeist,Sword,Crown Tundra,Dynamax Adventure
 Gourgeist,Sword,Galar,Den 28
 Gourgeist,Sword,Galar,Den 43
 Gourgeist,Sword,Galar,Den 47
 Gourgeist,Sword,Galar,Den 6
 Gourgeist,Sword,Isle of Armor,Den 128
+Gourgeist (Average Size),Shield,Crown Tundra,Dynamax Adventure
+Gourgeist (Average Size),Sword,Crown Tundra,Dynamax Adventure
 Grafaiai,Scarlet,Paldea,4☆
 Grafaiai,Scarlet,Paldea,6☆
 Grafaiai,Violet,Paldea,4☆
@@ -4187,8 +4179,6 @@ Rapidash,Shield,Galar,Den 62
 Rapidash,Shield,Galar,Den 82
 Rayquaza,Shield,Crown Tundra,Dynamax Adventure
 Rayquaza,Sword,Crown Tundra,Dynamax Adventure
-Red-striped,Shield,Crown Tundra,Dynamax Adventure
-Red-striped,Sword,Crown Tundra,Dynamax Adventure
 Relicanth,Shield,Crown Tundra,Den 162
 Relicanth,Shield,Crown Tundra,Den 163
 Relicanth,Shield,Crown Tundra,Dynamax Adventure
@@ -5763,5 +5753,5 @@ Zubat,Sword,Crown Tundra,Den 176
 Zubat,Sword,Crown Tundra,Den 177
 Zweilous,Scarlet,Paldea,4☆
 Zweilous,Sword,Galar,Den 36
-Zygarde 50%,Shield,Crown Tundra,Dynamax Adventure
-Zygarde 50%,Sword,Crown Tundra,Dynamax Adventure
+Zygarde (50%),Shield,Crown Tundra,Dynamax Adventure
+Zygarde (50%),Sword,Crown Tundra,Dynamax Adventure

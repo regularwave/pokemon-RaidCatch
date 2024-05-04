@@ -1625,21 +1625,6 @@
 		]
 	},
 	{
-		"Name": "Average Size",
-		"Sources": [
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			]
-		]
-	},
-	{
 		"Name": "Axew",
 		"Sources": [
 			[
@@ -2079,16 +2064,6 @@
 			],
 			[
 				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Shield",
 				"Galar",
 				"Den 44"
 			],
@@ -2144,16 +2119,6 @@
 			],
 			[
 				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
 				"Galar",
 				"Den 44"
 			],
@@ -2206,6 +2171,36 @@
 				"Violet",
 				"Paldea",
 				"3☆"
+			]
+		]
+	},
+	{
+		"Name": "Basculin (Blue-striped)",
+		"Sources": [
+			[
+				"Shield",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			]
+		]
+	},
+	{
+		"Name": "Basculin (Red-striped)",
+		"Sources": [
+			[
+				"Shield",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Dynamax Adventure"
 			]
 		]
 	},
@@ -3236,21 +3231,6 @@
 				"Violet",
 				"Terarium",
 				"1☆"
-			]
-		]
-	},
-	{
-		"Name": "Blue-striped",
-		"Sources": [
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
 			]
 		]
 	},
@@ -9365,21 +9345,6 @@
 		]
 	},
 	{
-		"Name": "East Sea",
-		"Sources": [
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			]
-		]
-	},
-	{
 		"Name": "Eelektrik",
 		"Sources": [
 			[
@@ -11769,11 +11734,6 @@
 			],
 			[
 				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Shield",
 				"Galar",
 				"Den 42"
 			],
@@ -11796,11 +11756,6 @@
 				"Shield",
 				"Galar",
 				"Den 93"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
 			],
 			[
 				"Sword",
@@ -11831,6 +11786,21 @@
 				"Violet",
 				"Paldea",
 				"4☆"
+			]
+		]
+	},
+	{
+		"Name": "Gastrodon (East Sea)",
+		"Sources": [
+			[
+				"Shield",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Dynamax Adventure"
 			]
 		]
 	},
@@ -11935,21 +11905,6 @@
 		]
 	},
 	{
-		"Name": "Gigabtamax",
-		"Sources": [
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			]
-		]
-	},
-	{
 		"Name": "Gigalith",
 		"Sources": [
 			[
@@ -12010,7 +11965,7 @@
 		]
 	},
 	{
-		"Name": "Giratina Altered",
+		"Name": "Giratina (Altered)",
 		"Sources": [
 			[
 				"Shield",
@@ -12839,11 +12794,6 @@
 		"Sources": [
 			[
 				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Shield",
 				"Galar",
 				"Den 28"
 			],
@@ -12856,11 +12806,6 @@
 				"Shield",
 				"Isle of Armor",
 				"Den 128"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
 			],
 			[
 				"Sword",
@@ -12886,6 +12831,21 @@
 				"Sword",
 				"Isle of Armor",
 				"Den 128"
+			]
+		]
+	},
+	{
+		"Name": "Gourgeist (Average Size)",
+		"Sources": [
+			[
+				"Shield",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Dynamax Adventure"
 			]
 		]
 	},
@@ -23840,21 +23800,6 @@
 		]
 	},
 	{
-		"Name": "Red-striped",
-		"Sources": [
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			]
-		]
-	},
-	{
 		"Name": "Relicanth",
 		"Sources": [
 			[
@@ -32950,7 +32895,7 @@
 		]
 	},
 	{
-		"Name": "Zygarde 50%",
+		"Name": "Zygarde (50%)",
 		"Sources": [
 			[
 				"Shield",
