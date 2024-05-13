@@ -45,6 +45,7 @@ function renderResults(pname) {
         const pnametext = document.createTextNode(`${filtered[0].Name}`);
         pnamecell.appendChild(pnametext);
         pnamecell.colSpan = 3;
+        pnamecell.classList.add("pnamerow");
         pnamerow.appendChild(pnamecell);
         tblBody.appendChild(pnamerow);
         const headerrow = document.createElement("tr");
@@ -61,7 +62,6 @@ function renderResults(pname) {
         lochcell.appendChild(lochtext);
         headerrow.appendChild(lochcell);
         tblBody.appendChild(headerrow);
-        // resultsDisplay.innerHTML += filtered[0].Name + ":<br>";
         (filtered[0].Sources).forEach(source => {
             const plocrow = document.createElement("tr");
             const gamecell = document.createElement("td");
@@ -78,11 +78,8 @@ function renderResults(pname) {
             plocrow.appendChild(loccell);
 
             tblBody.appendChild(plocrow);
-
-            // resultsDisplay.innerHTML += source[0] + " " + source[1] + " " + source[2] + "<br>";
         })
         tbl.appendChild(tblBody);
-        // tbl.setAttribute("border","1");
         resultsDisplay.appendChild(tbl);
     } catch (error) {
         resultsDisplay.innerHTML = "not a valid pokemon or pokemon is not in a raid";

@@ -2,6 +2,7 @@
 
 * {
     box-sizing: border-box;
+    padding: 2px;
 }
 
 body {
@@ -20,8 +21,7 @@ body {
 }
 
 .container {
-    /* border: 1px dotted red; */
-    width: 95%;
+    width: 98%;
     display: flex;
     flex-direction: column;
     gap: 2px;
@@ -32,19 +32,33 @@ body {
     border: 1px solid white;
     display: flex;
     flex-direction: row;
-    /* padding: 2px; */
-    /* gap: 2px; */
+    gap: 2px;
 }
 
 .text {
     border: 1px solid white;
-    width: auto;
+    width: 35%;
+}
+
+.titletext {
+    font-size: 1.5rem;
+}
+
+.infotext {
+    font-size: .8rem;
+}
+
+.issuestext {
+    font-size: .8rem;
+}
+
+.issuestext a {
+    color: white;
 }
 
 .pokemon_options {
     border: 1px solid white;
-    width: 50%;
-    /* width:50%; */
+    width: 65%;
 }
 
 .results {
@@ -53,15 +67,24 @@ body {
 
 table {
     width: 100%;
+    font-size: .9rem;
 }
 
-table, th, td {
+table,
+th,
+td {
     border-collapse: collapse;
     border: 1px solid white;
 }
 
-th, td {
-    padding: 5px;
+th,
+td {
+    padding: 3px;
+}
+
+.pnamerow {
+    font-size: 1.3rem;
+    font-weight: bold;
 }
 
 @media screen and (max-width: 768px) {}
