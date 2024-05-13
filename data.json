@@ -31480,17 +31480,22 @@
 		]
 	},
 	{
-		"Name": "Vulpix",
+		"Name": "Vulpix (Alolan)",
+		"Sources": [
+			[
+				"Scarlet",
+				"Terarium",
+				"3☆"
+			]
+		]
+	},
+	{
+		"Name": "Vulpix (Kantonian)",
 		"Sources": [
 			[
 				"Scarlet",
 				"Kitakami",
 				"2☆"
-			],
-			[
-				"Scarlet",
-				"Terarium",
-				"3☆"
 			],
 			[
 				"Sword",
@@ -31531,6 +31536,11 @@
 				"Sword",
 				"Galar",
 				"Den 80"
+			],
+			[
+				"Violet",
+				"Kitakami",
+				"2☆"
 			]
 		]
 	},
