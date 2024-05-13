@@ -22345,21 +22345,6 @@
 		]
 	},
 	{
-		"Name": "Phony",
-		"Sources": [
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			]
-		]
-	},
-	{
 		"Name": "Pichu",
 		"Sources": [
 			[
