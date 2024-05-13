@@ -915,7 +915,7 @@
 		]
 	},
 	{
-		"Name": "Arcanine",
+		"Name": "Arcanine (Kantonian)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -2040,147 +2040,67 @@
 		]
 	},
 	{
-		"Name": "Basculin",
-		"Sources": [
-			[
-				"Scarlet",
-				"Kitakami",
-				"3☆"
-			],
-			[
-				"Scarlet",
-				"Paldea",
-				"3☆"
-			],
-			[
-				"Shield",
-				"Crown Tundra",
-				"Den 162"
-			],
-			[
-				"Shield",
-				"Crown Tundra",
-				"Den 163"
-			],
-			[
-				"Shield",
-				"Galar",
-				"Den 44"
-			],
-			[
-				"Shield",
-				"Galar",
-				"Den 67"
-			],
-			[
-				"Shield",
-				"Galar",
-				"Den 7"
-			],
-			[
-				"Shield",
-				"Galar",
-				"Den 76"
-			],
-			[
-				"Shield",
-				"Galar",
-				"Den 78"
-			],
-			[
-				"Shield",
-				"Galar",
-				"Den 8"
-			],
-			[
-				"Shield",
-				"Galar",
-				"Den 91"
-			],
-			[
-				"Shield",
-				"Isle of Armor",
-				"Den 136"
-			],
-			[
-				"Shield",
-				"Isle of Armor",
-				"Den 148"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Den 162"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Den 163"
-			],
-			[
-				"Sword",
-				"Galar",
-				"Den 44"
-			],
-			[
-				"Sword",
-				"Galar",
-				"Den 67"
-			],
-			[
-				"Sword",
-				"Galar",
-				"Den 7"
-			],
-			[
-				"Sword",
-				"Galar",
-				"Den 76"
-			],
-			[
-				"Sword",
-				"Galar",
-				"Den 78"
-			],
-			[
-				"Sword",
-				"Galar",
-				"Den 8"
-			],
-			[
-				"Sword",
-				"Galar",
-				"Den 91"
-			],
-			[
-				"Sword",
-				"Isle of Armor",
-				"Den 136"
-			],
-			[
-				"Sword",
-				"Isle of Armor",
-				"Den 148"
-			],
-			[
-				"Violet",
-				"Kitakami",
-				"3☆"
-			],
-			[
-				"Violet",
-				"Paldea",
-				"3☆"
-			]
-		]
-	},
-	{
 		"Name": "Basculin (Blue-striped)",
 		"Sources": [
 			[
 				"Shield",
 				"Crown Tundra",
+				"Den 162"
+			],
+			[
+				"Shield",
+				"Crown Tundra",
+				"Den 163"
+			],
+			[
+				"Shield",
+				"Crown Tundra",
 				"Dynamax Adventure"
+			],
+			[
+				"Shield",
+				"Galar",
+				"Den 44"
+			],
+			[
+				"Shield",
+				"Galar",
+				"Den 67"
+			],
+			[
+				"Shield",
+				"Galar",
+				"Den 7"
+			],
+			[
+				"Shield",
+				"Galar",
+				"Den 76"
+			],
+			[
+				"Shield",
+				"Galar",
+				"Den 78"
+			],
+			[
+				"Shield",
+				"Galar",
+				"Den 8"
+			],
+			[
+				"Shield",
+				"Galar",
+				"Den 91"
+			],
+			[
+				"Shield",
+				"Isle of Armor",
+				"Den 136"
+			],
+			[
+				"Shield",
+				"Isle of Armor",
+				"Den 148"
 			],
 			[
 				"Sword",
@@ -2193,6 +2113,11 @@
 		"Name": "Basculin (Red-striped)",
 		"Sources": [
 			[
+				"Scarlet",
+				"Paldea",
+				"3☆"
+			],
+			[
 				"Shield",
 				"Crown Tundra",
 				"Dynamax Adventure"
@@ -2200,7 +2125,82 @@
 			[
 				"Sword",
 				"Crown Tundra",
+				"Den 162"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Den 163"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
 				"Dynamax Adventure"
+			],
+			[
+				"Sword",
+				"Galar",
+				"Den 44"
+			],
+			[
+				"Sword",
+				"Galar",
+				"Den 67"
+			],
+			[
+				"Sword",
+				"Galar",
+				"Den 7"
+			],
+			[
+				"Sword",
+				"Galar",
+				"Den 76"
+			],
+			[
+				"Sword",
+				"Galar",
+				"Den 78"
+			],
+			[
+				"Sword",
+				"Galar",
+				"Den 8"
+			],
+			[
+				"Sword",
+				"Galar",
+				"Den 91"
+			],
+			[
+				"Sword",
+				"Isle of Armor",
+				"Den 136"
+			],
+			[
+				"Sword",
+				"Isle of Armor",
+				"Den 148"
+			],
+			[
+				"Violet",
+				"Paldea",
+				"3☆"
+			]
+		]
+	},
+	{
+		"Name": "Basculin (White-striped)",
+		"Sources": [
+			[
+				"Scarlet",
+				"Kitakami",
+				"3☆"
+			],
+			[
+				"Violet",
+				"Kitakami",
+				"3☆"
 			]
 		]
 	},
@@ -8870,13 +8870,8 @@
 		]
 	},
 	{
-		"Name": "Dugtrio",
+		"Name": "Dugtrio (Alolan)",
 		"Sources": [
-			[
-				"Scarlet",
-				"Paldea",
-				"4☆"
-			],
 			[
 				"Scarlet",
 				"Terarium",
@@ -8888,24 +8883,9 @@
 				"Dynamax Adventure"
 			],
 			[
-				"Shield",
-				"Galar",
-				"Den 16"
-			],
-			[
 				"Sword",
 				"Crown Tundra",
 				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Galar",
-				"Den 16"
-			],
-			[
-				"Violet",
-				"Paldea",
-				"4☆"
 			],
 			[
 				"Violet",
@@ -8915,17 +8895,37 @@
 		]
 	},
 	{
-		"Name": "Dugtrio (Alolan)",
+		"Name": "Dugtrio (Kantonian)",
 		"Sources": [
+			[
+				"Scarlet",
+				"Paldea",
+				"4☆"
+			],
 			[
 				"Shield",
 				"Crown Tundra",
 				"Dynamax Adventure"
 			],
 			[
+				"Shield",
+				"Galar",
+				"Den 16"
+			],
+			[
 				"Sword",
 				"Crown Tundra",
 				"Dynamax Adventure"
+			],
+			[
+				"Sword",
+				"Galar",
+				"Den 16"
+			],
+			[
+				"Violet",
+				"Paldea",
+				"4☆"
 			]
 		]
 	},
@@ -10025,7 +10025,22 @@
 		]
 	},
 	{
-		"Name": "Exeggutor",
+		"Name": "Exeggutor (Alolan)",
+		"Sources": [
+			[
+				"Scarlet",
+				"Terarium",
+				"6☆"
+			],
+			[
+				"Violet",
+				"Terarium",
+				"6☆"
+			]
+		]
+	},
+	{
+		"Name": "Exeggutor (Kantonian)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -10033,11 +10048,6 @@
 				"5☆"
 			],
 			[
-				"Scarlet",
-				"Terarium",
-				"6☆"
-			],
-			[
 				"Shield",
 				"Crown Tundra",
 				"Dynamax Adventure"
@@ -10081,11 +10091,6 @@
 				"Violet",
 				"Terarium",
 				"5☆"
-			],
-			[
-				"Violet",
-				"Terarium",
-				"6☆"
 			]
 		]
 	},
@@ -10205,7 +10210,7 @@
 		]
 	},
 	{
-		"Name": "Farfetch'd",
+		"Name": "Farfetch'd (Galarian)",
 		"Sources": [
 			[
 				"Sword",
@@ -11255,51 +11260,6 @@
 		]
 	},
 	{
-		"Name": "Galarian",
-		"Sources": [
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			]
-		]
-	},
-	{
 		"Name": "Gallade",
 		"Sources": [
 			[
@@ -11725,7 +11685,7 @@
 		]
 	},
 	{
-		"Name": "Gastrodon",
+		"Name": "Gastrodon (East Sea)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -11734,6 +11694,11 @@
 			],
 			[
 				"Shield",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Shield",
 				"Galar",
 				"Den 42"
 			],
@@ -11759,6 +11724,11 @@
 			],
 			[
 				"Sword",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Sword",
 				"Galar",
 				"Den 42"
 			],
@@ -11781,26 +11751,16 @@
 				"Sword",
 				"Galar",
 				"Den 93"
-			],
-			[
-				"Violet",
-				"Paldea",
-				"4☆"
 			]
 		]
 	},
 	{
-		"Name": "Gastrodon (East Sea)",
+		"Name": "Gastrodon (West Sea)",
 		"Sources": [
 			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
+				"Violet",
+				"Paldea",
+				"4☆"
 			]
 		]
 	},
@@ -11855,7 +11815,22 @@
 		]
 	},
 	{
-		"Name": "Geodude",
+		"Name": "Geodude (Alolan)",
+		"Sources": [
+			[
+				"Scarlet",
+				"Terarium",
+				"3☆"
+			],
+			[
+				"Violet",
+				"Terarium",
+				"3☆"
+			]
+		]
+	},
+	{
+		"Name": "Geodude (Kantonian)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -11863,19 +11838,9 @@
 				"1☆"
 			],
 			[
-				"Scarlet",
-				"Terarium",
-				"3☆"
-			],
-			[
 				"Violet",
 				"Kitakami",
 				"1☆"
-			],
-			[
-				"Violet",
-				"Terarium",
-				"3☆"
 			]
 		]
 	},
@@ -12355,7 +12320,22 @@
 		]
 	},
 	{
-		"Name": "Golem",
+		"Name": "Golem (Alolan)",
+		"Sources": [
+			[
+				"Scarlet",
+				"Terarium",
+				"6☆"
+			],
+			[
+				"Violet",
+				"Terarium",
+				"6☆"
+			]
+		]
+	},
+	{
+		"Name": "Golem (Kantonian)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -12368,11 +12348,6 @@
 				"6☆"
 			],
 			[
-				"Scarlet",
-				"Terarium",
-				"6☆"
-			],
-			[
 				"Violet",
 				"Kitakami",
 				"5☆"
@@ -12380,11 +12355,6 @@
 			[
 				"Violet",
 				"Kitakami",
-				"6☆"
-			],
-			[
-				"Violet",
-				"Terarium",
 				"6☆"
 			]
 		]
@@ -12555,7 +12525,7 @@
 		]
 	},
 	{
-		"Name": "Goodra",
+		"Name": "Goodra (Kalosian)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -12794,6 +12764,11 @@
 		"Sources": [
 			[
 				"Shield",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Shield",
 				"Galar",
 				"Den 28"
 			],
@@ -12806,6 +12781,11 @@
 				"Shield",
 				"Isle of Armor",
 				"Den 128"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Dynamax Adventure"
 			],
 			[
 				"Sword",
@@ -12831,21 +12811,6 @@
 				"Sword",
 				"Isle of Armor",
 				"Den 128"
-			]
-		]
-	},
-	{
-		"Name": "Gourgeist (Average Size)",
-		"Sources": [
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
 			]
 		]
 	},
@@ -12935,7 +12900,7 @@
 		]
 	},
 	{
-		"Name": "Graveler",
+		"Name": "Graveler (Kantonian)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -13040,7 +13005,22 @@
 		]
 	},
 	{
-		"Name": "Grimer",
+		"Name": "Grimer (Alolan)",
+		"Sources": [
+			[
+				"Scarlet",
+				"Terarium",
+				"3☆"
+			],
+			[
+				"Violet",
+				"Terarium",
+				"3☆"
+			]
+		]
+	},
+	{
+		"Name": "Grimer (Kantonian)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -13048,19 +13028,9 @@
 				"2☆"
 			],
 			[
-				"Scarlet",
-				"Terarium",
-				"3☆"
-			],
-			[
 				"Violet",
 				"Paldea",
 				"2☆"
-			],
-			[
-				"Violet",
-				"Terarium",
-				"3☆"
 			]
 		]
 	},
@@ -13205,7 +13175,7 @@
 		]
 	},
 	{
-		"Name": "Growlithe",
+		"Name": "Growlithe (Kantonian)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -17030,7 +17000,7 @@
 		]
 	},
 	{
-		"Name": "Lilligant",
+		"Name": "Lilligant (Unovan)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -17100,7 +17070,7 @@
 		]
 	},
 	{
-		"Name": "Linoone",
+		"Name": "Linoone (Galarian)",
 		"Sources": [
 			[
 				"Shield",
@@ -17114,11 +17084,6 @@
 			],
 			[
 				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Shield",
 				"Galar",
 				"Den 36"
 			],
@@ -17154,11 +17119,6 @@
 			],
 			[
 				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
 				"Galar",
 				"Den 36"
 			],
@@ -17181,6 +17141,21 @@
 				"Sword",
 				"Galar",
 				"Den 88"
+			]
+		]
+	},
+	{
+		"Name": "Linoone (Hoennian)",
+		"Sources": [
+			[
+				"Shield",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Dynamax Adventure"
 			]
 		]
 	},
@@ -17720,7 +17695,22 @@
 		]
 	},
 	{
-		"Name": "Lycanroc",
+		"Name": "Lycanroc (Dusk)",
+		"Sources": [
+			[
+				"Scarlet",
+				"Paldea",
+				"6☆"
+			],
+			[
+				"Violet",
+				"Paldea",
+				"6☆"
+			]
+		]
+	},
+	{
+		"Name": "Lycanroc (Midday)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -17728,16 +17718,6 @@
 				"4☆"
 			],
 			[
-				"Scarlet",
-				"Paldea",
-				"6☆"
-			],
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
 				"Shield",
 				"Crown Tundra",
 				"Dynamax Adventure"
@@ -17761,11 +17741,6 @@
 				"Shield",
 				"Isle of Armor",
 				"Den 157"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
 			],
 			[
 				"Sword",
@@ -17796,11 +17771,71 @@
 				"Violet",
 				"Paldea",
 				"4☆"
+			]
+		]
+	},
+	{
+		"Name": "Lycanroc (Midnight)",
+		"Sources": [
+			[
+				"Scarlet",
+				"Paldea",
+				"4☆"
+			],
+			[
+				"Shield",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Shield",
+				"Isle of Armor",
+				"Den 115"
+			],
+			[
+				"Shield",
+				"Isle of Armor",
+				"Den 116"
+			],
+			[
+				"Shield",
+				"Isle of Armor",
+				"Den 156"
+			],
+			[
+				"Shield",
+				"Isle of Armor",
+				"Den 157"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Sword",
+				"Isle of Armor",
+				"Den 115"
+			],
+			[
+				"Sword",
+				"Isle of Armor",
+				"Den 116"
+			],
+			[
+				"Sword",
+				"Isle of Armor",
+				"Den 156"
+			],
+			[
+				"Sword",
+				"Isle of Armor",
+				"Den 157"
 			],
 			[
 				"Violet",
 				"Paldea",
-				"6☆"
+				"4☆"
 			]
 		]
 	},
@@ -18870,51 +18905,6 @@
 		]
 	},
 	{
-		"Name": "Marowak",
-		"Sources": [
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Shield",
-				"Isle of Armor",
-				"Den 103"
-			],
-			[
-				"Shield",
-				"Isle of Armor",
-				"Den 104"
-			],
-			[
-				"Shield",
-				"Isle of Armor",
-				"Den 127"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Isle of Armor",
-				"Den 103"
-			],
-			[
-				"Sword",
-				"Isle of Armor",
-				"Den 104"
-			],
-			[
-				"Sword",
-				"Isle of Armor",
-				"Den 127"
-			]
-		]
-	},
-	{
 		"Name": "Marowak (Alolan)",
 		"Sources": [
 			[
@@ -18926,6 +18916,51 @@
 				"Sword",
 				"Crown Tundra",
 				"Dynamax Adventure"
+			]
+		]
+	},
+	{
+		"Name": "Marowak (Kantonian)",
+		"Sources": [
+			[
+				"Shield",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Shield",
+				"Isle of Armor",
+				"Den 103"
+			],
+			[
+				"Shield",
+				"Isle of Armor",
+				"Den 104"
+			],
+			[
+				"Shield",
+				"Isle of Armor",
+				"Den 127"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Sword",
+				"Isle of Armor",
+				"Den 103"
+			],
+			[
+				"Sword",
+				"Isle of Armor",
+				"Den 104"
+			],
+			[
+				"Sword",
+				"Isle of Armor",
+				"Den 127"
 			]
 		]
 	},
@@ -19110,62 +19145,67 @@
 		]
 	},
 	{
-		"Name": "Meowth",
+		"Name": "Meowth (Galarian)",
+		"Sources": [
+			[
+				"Shield",
+				"Crown Tundra",
+				"Den 189"
+			],
+			[
+				"Shield",
+				"Galar",
+				"Den 11"
+			],
+			[
+				"Shield",
+				"Galar",
+				"Den 49"
+			],
+			[
+				"Shield",
+				"Galar",
+				"Den 85"
+			],
+			[
+				"Shield",
+				"Isle of Armor",
+				"Den 130"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Den 189"
+			],
+			[
+				"Sword",
+				"Galar",
+				"Den 11"
+			],
+			[
+				"Sword",
+				"Galar",
+				"Den 49"
+			],
+			[
+				"Sword",
+				"Galar",
+				"Den 85"
+			],
+			[
+				"Sword",
+				"Isle of Armor",
+				"Den 130"
+			]
+		]
+	},
+	{
+		"Name": "Meowth (Kantonian)",
 		"Sources": [
 			[
 				"Scarlet",
 				"Paldea",
 				"2☆"
-			],
-			[
-				"Shield",
-				"Crown Tundra",
-				"Den 189"
-			],
-			[
-				"Shield",
-				"Galar",
-				"Den 11"
-			],
-			[
-				"Shield",
-				"Galar",
-				"Den 49"
-			],
-			[
-				"Shield",
-				"Galar",
-				"Den 85"
-			],
-			[
-				"Shield",
-				"Isle of Armor",
-				"Den 130"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Den 189"
-			],
-			[
-				"Sword",
-				"Galar",
-				"Den 11"
-			],
-			[
-				"Sword",
-				"Galar",
-				"Den 49"
-			],
-			[
-				"Sword",
-				"Galar",
-				"Den 85"
-			],
-			[
-				"Sword",
-				"Isle of Armor",
-				"Den 130"
 			],
 			[
 				"Violet",
@@ -19306,36 +19346,6 @@
 	},
 	{
 		"Name": "Mewtwo",
-		"Sources": [
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			]
-		]
-	},
-	{
-		"Name": "Midday",
-		"Sources": [
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			]
-		]
-	},
-	{
-		"Name": "Midnight",
 		"Sources": [
 			[
 				"Shield",
@@ -20280,7 +20290,22 @@
 		]
 	},
 	{
-		"Name": "Muk",
+		"Name": "Muk (Alolan)",
+		"Sources": [
+			[
+				"Scarlet",
+				"Terarium",
+				"6☆"
+			],
+			[
+				"Violet",
+				"Terarium",
+				"6☆"
+			]
+		]
+	},
+	{
+		"Name": "Muk (Kantonian)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -20288,19 +20313,9 @@
 				"4☆"
 			],
 			[
-				"Scarlet",
-				"Terarium",
-				"6☆"
-			],
-			[
 				"Violet",
 				"Paldea",
 				"4☆"
-			],
-			[
-				"Violet",
-				"Terarium",
-				"6☆"
 			]
 		]
 	},
@@ -20760,17 +20775,22 @@
 		]
 	},
 	{
-		"Name": "Ninetales",
+		"Name": "Ninetales (Alolan)",
+		"Sources": [
+			[
+				"Scarlet",
+				"Kitakami",
+				"6☆"
+			]
+		]
+	},
+	{
+		"Name": "Ninetales (Kantonian)",
 		"Sources": [
 			[
 				"Scarlet",
 				"Kitakami",
 				"5☆"
-			],
-			[
-				"Scarlet",
-				"Kitakami",
-				"6☆"
 			],
 			[
 				"Scarlet",
@@ -20831,6 +20851,16 @@
 				"Sword",
 				"Isle of Armor",
 				"Den 114"
+			],
+			[
+				"Violet",
+				"Kitakami",
+				"5☆"
+			],
+			[
+				"Violet",
+				"Terarium",
+				"6☆"
 			]
 		]
 	},
@@ -22175,7 +22205,22 @@
 		]
 	},
 	{
-		"Name": "Persian",
+		"Name": "Persian (Alolan)",
+		"Sources": [
+			[
+				"Shield",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			]
+		]
+	},
+	{
+		"Name": "Persian (Kantonian)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -22196,21 +22241,6 @@
 				"Violet",
 				"Paldea",
 				"4☆"
-			]
-		]
-	},
-	{
-		"Name": "Persian (Alolan)",
-		"Sources": [
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
 			]
 		]
 	},
@@ -22910,7 +22940,7 @@
 		]
 	},
 	{
-		"Name": "Poltchageist",
+		"Name": "Poltchageist (Counterfeit)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -22925,7 +22955,22 @@
 		]
 	},
 	{
-		"Name": "Polteageist",
+		"Name": "Polteageist (Antique)",
+		"Sources": [
+			[
+				"Shield",
+				"Crown Tundra",
+				"Den 193"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Den 193"
+			]
+		]
+	},
+	{
+		"Name": "Polteageist (Phony)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -22990,7 +23035,7 @@
 		]
 	},
 	{
-		"Name": "Ponyta",
+		"Name": "Ponyta (Galarian)",
 		"Sources": [
 			[
 				"Shield",
@@ -23565,61 +23610,6 @@
 		]
 	},
 	{
-		"Name": "Raichu",
-		"Sources": [
-			[
-				"Scarlet",
-				"Paldea",
-				"4☆"
-			],
-			[
-				"Scarlet",
-				"Paldea",
-				"5☆"
-			],
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Shield",
-				"Galar",
-				"Den 24"
-			],
-			[
-				"Shield",
-				"Isle of Armor",
-				"Den 106"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Galar",
-				"Den 24"
-			],
-			[
-				"Sword",
-				"Isle of Armor",
-				"Den 106"
-			],
-			[
-				"Violet",
-				"Paldea",
-				"4☆"
-			],
-			[
-				"Violet",
-				"Paldea",
-				"5☆"
-			]
-		]
-	},
-	{
 		"Name": "Raichu (Alolan)",
 		"Sources": [
 			[
@@ -23631,6 +23621,61 @@
 				"Sword",
 				"Crown Tundra",
 				"Dynamax Adventure"
+			]
+		]
+	},
+	{
+		"Name": "Raichu (Kantonian)",
+		"Sources": [
+			[
+				"Scarlet",
+				"Paldea",
+				"4☆"
+			],
+			[
+				"Scarlet",
+				"Paldea",
+				"5☆"
+			],
+			[
+				"Shield",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Shield",
+				"Galar",
+				"Den 24"
+			],
+			[
+				"Shield",
+				"Isle of Armor",
+				"Den 106"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Sword",
+				"Galar",
+				"Den 24"
+			],
+			[
+				"Sword",
+				"Isle of Armor",
+				"Den 106"
+			],
+			[
+				"Violet",
+				"Paldea",
+				"4☆"
+			],
+			[
+				"Violet",
+				"Paldea",
+				"5☆"
 			]
 		]
 	},
@@ -23755,7 +23800,7 @@
 		]
 	},
 	{
-		"Name": "Rapidash",
+		"Name": "Rapidash (Galarian)",
 		"Sources": [
 			[
 				"Shield",
@@ -25075,8 +25120,28 @@
 		]
 	},
 	{
-		"Name": "Sandshrew",
+		"Name": "Sandshrew (Alolan)",
 		"Sources": [
+			[
+				"Violet",
+				"Terarium",
+				"3☆"
+			]
+		]
+	},
+	{
+		"Name": "Sandshrew (Kantonian)",
+		"Sources": [
+			[
+				"Scarlet",
+				"Kitakami",
+				"1☆"
+			],
+			[
+				"Scarlet",
+				"Kitakami",
+				"3☆"
+			],
 			[
 				"Shield",
 				"Isle of Armor",
@@ -25106,61 +25171,6 @@
 				"Violet",
 				"Kitakami",
 				"3☆"
-			],
-			[
-				"Violet",
-				"Terarium",
-				"3☆"
-			]
-		]
-	},
-	{
-		"Name": "Sandslash",
-		"Sources": [
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Shield",
-				"Isle of Armor",
-				"Den 103"
-			],
-			[
-				"Shield",
-				"Isle of Armor",
-				"Den 104"
-			],
-			[
-				"Shield",
-				"Isle of Armor",
-				"Den 150"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Isle of Armor",
-				"Den 103"
-			],
-			[
-				"Sword",
-				"Isle of Armor",
-				"Den 104"
-			],
-			[
-				"Sword",
-				"Isle of Armor",
-				"Den 150"
-			],
-			[
-				"Violet",
-				"Terarium",
-				"6☆"
 			]
 		]
 	},
@@ -25176,6 +25186,56 @@
 				"Sword",
 				"Crown Tundra",
 				"Dynamax Adventure"
+			],
+			[
+				"Violet",
+				"Terarium",
+				"6☆"
+			]
+		]
+	},
+	{
+		"Name": "Sandslash (Kantonian)",
+		"Sources": [
+			[
+				"Shield",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Shield",
+				"Isle of Armor",
+				"Den 103"
+			],
+			[
+				"Shield",
+				"Isle of Armor",
+				"Den 104"
+			],
+			[
+				"Shield",
+				"Isle of Armor",
+				"Den 150"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Sword",
+				"Isle of Armor",
+				"Den 103"
+			],
+			[
+				"Sword",
+				"Isle of Armor",
+				"Den 104"
+			],
+			[
+				"Sword",
+				"Isle of Armor",
+				"Den 150"
 			]
 		]
 	},
@@ -25960,7 +26020,7 @@
 		]
 	},
 	{
-		"Name": "Shellos",
+		"Name": "Shellos (East Sea)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -25986,7 +26046,12 @@
 				"Sword",
 				"Galar",
 				"Den 8"
-			],
+			]
+		]
+	},
+	{
+		"Name": "Shellos (West Sea)",
+		"Sources": [
 			[
 				"Violet",
 				"Paldea",
@@ -26380,7 +26445,22 @@
 		]
 	},
 	{
-		"Name": "Sinistcha",
+		"Name": "Sinistcha (Masterpiece)",
+		"Sources": [
+			[
+				"Scarlet",
+				"Kitakami",
+				"6☆"
+			],
+			[
+				"Violet",
+				"Kitakami",
+				"6☆"
+			]
+		]
+	},
+	{
+		"Name": "Sinistcha (Unremarkable)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -26405,7 +26485,32 @@
 		]
 	},
 	{
-		"Name": "Sinistea",
+		"Name": "Sinistea (Antique)",
+		"Sources": [
+			[
+				"Shield",
+				"Crown Tundra",
+				"Den 192"
+			],
+			[
+				"Shield",
+				"Crown Tundra",
+				"Den 193"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Den 192"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Den 193"
+			]
+		]
+	},
+	{
+		"Name": "Sinistea (Phony)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -26920,7 +27025,7 @@
 		]
 	},
 	{
-		"Name": "Sliggoo",
+		"Name": "Sliggoo (Kalosian)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -26960,7 +27065,22 @@
 		]
 	},
 	{
-		"Name": "Slowbro",
+		"Name": "Slowbro (Galarian)",
+		"Sources": [
+			[
+				"Scarlet",
+				"Terarium",
+				"6☆"
+			],
+			[
+				"Violet",
+				"Terarium",
+				"6☆"
+			]
+		]
+	},
+	{
+		"Name": "Slowbro (Kantonian)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -26985,7 +27105,22 @@
 		]
 	},
 	{
-		"Name": "Slowking",
+		"Name": "Slowking (Galarian)",
+		"Sources": [
+			[
+				"Scarlet",
+				"Terarium",
+				"6☆"
+			],
+			[
+				"Violet",
+				"Terarium",
+				"6☆"
+			]
+		]
+	},
+	{
+		"Name": "Slowking (Johtonian)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -26995,11 +27130,6 @@
 			[
 				"Scarlet",
 				"Paldea",
-				"6☆"
-			],
-			[
-				"Scarlet",
-				"Terarium",
 				"6☆"
 			],
 			[
@@ -27021,22 +27151,12 @@
 				"Violet",
 				"Paldea",
 				"6☆"
-			],
-			[
-				"Violet",
-				"Terarium",
-				"6☆"
 			]
 		]
 	},
 	{
-		"Name": "Slowpoke",
+		"Name": "Slowpoke (Galarian)",
 		"Sources": [
-			[
-				"Scarlet",
-				"Paldea",
-				"2☆"
-			],
 			[
 				"Scarlet",
 				"Terarium",
@@ -27074,13 +27194,23 @@
 			],
 			[
 				"Violet",
+				"Terarium",
+				"3☆"
+			]
+		]
+	},
+	{
+		"Name": "Slowpoke (Kantonian)",
+		"Sources": [
+			[
+				"Scarlet",
 				"Paldea",
 				"2☆"
 			],
 			[
 				"Violet",
-				"Terarium",
-				"3☆"
+				"Paldea",
+				"2☆"
 			]
 		]
 	},
@@ -27160,7 +27290,7 @@
 		]
 	},
 	{
-		"Name": "Sneasel",
+		"Name": "Sneasel (Johtonian)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -28035,7 +28165,7 @@
 		]
 	},
 	{
-		"Name": "Stunfisk",
+		"Name": "Stunfisk (Galarian)",
 		"Sources": [
 			[
 				"Shield",
@@ -28044,11 +28174,6 @@
 			],
 			[
 				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Shield",
 				"Galar",
 				"Den 17"
 			],
@@ -28079,11 +28204,6 @@
 			],
 			[
 				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
 				"Galar",
 				"Den 17"
 			],
@@ -28106,6 +28226,21 @@
 				"Sword",
 				"Galar",
 				"Den 93"
+			]
+		]
+	},
+	{
+		"Name": "Stunfisk (Unovan)",
+		"Sources": [
+			[
+				"Shield",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Dynamax Adventure"
 			]
 		]
 	},
@@ -28860,41 +28995,6 @@
 		]
 	},
 	{
-		"Name": "Tauros",
-		"Sources": [
-			[
-				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Shield",
-				"Isle of Armor",
-				"Den 101"
-			],
-			[
-				"Shield",
-				"Isle of Armor",
-				"Den 102"
-			],
-			[
-				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
-				"Isle of Armor",
-				"Den 101"
-			],
-			[
-				"Sword",
-				"Isle of Armor",
-				"Den 102"
-			]
-		]
-	},
-	{
 		"Name": "Tauros (Aqua)",
 		"Sources": [
 			[
@@ -28946,6 +29046,41 @@
 				"Violet",
 				"Paldea",
 				"6☆"
+			]
+		]
+	},
+	{
+		"Name": "Tauros (Kantonian)",
+		"Sources": [
+			[
+				"Shield",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Shield",
+				"Isle of Armor",
+				"Den 101"
+			],
+			[
+				"Shield",
+				"Isle of Armor",
+				"Den 102"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Sword",
+				"Isle of Armor",
+				"Den 101"
+			],
+			[
+				"Sword",
+				"Isle of Armor",
+				"Den 102"
 			]
 		]
 	},
@@ -31645,7 +31780,7 @@
 		]
 	},
 	{
-		"Name": "Weezing",
+		"Name": "Weezing (Galarian)",
 		"Sources": [
 			[
 				"Shield",
@@ -31659,11 +31794,6 @@
 			],
 			[
 				"Shield",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Shield",
 				"Galar",
 				"Den 30"
 			],
@@ -31694,11 +31824,6 @@
 			],
 			[
 				"Sword",
-				"Crown Tundra",
-				"Dynamax Adventure"
-			],
-			[
-				"Sword",
 				"Galar",
 				"Den 30"
 			],
@@ -31716,6 +31841,21 @@
 				"Sword",
 				"Isle of Armor",
 				"Den 120"
+			]
+		]
+	},
+	{
+		"Name": "Weezing (Kantonian)",
+		"Sources": [
+			[
+				"Shield",
+				"Crown Tundra",
+				"Dynamax Adventure"
+			],
+			[
+				"Sword",
+				"Crown Tundra",
+				"Dynamax Adventure"
 			]
 		]
 	},
@@ -32280,16 +32420,11 @@
 		]
 	},
 	{
-		"Name": "Wooper",
+		"Name": "Wooper (Johtonian)",
 		"Sources": [
 			[
 				"Scarlet",
 				"Kitakami",
-				"1☆"
-			],
-			[
-				"Scarlet",
-				"Paldea",
 				"1☆"
 			],
 			[
@@ -32345,6 +32480,16 @@
 			[
 				"Violet",
 				"Kitakami",
+				"1☆"
+			]
+		]
+	},
+	{
+		"Name": "Wooper (Paldean)",
+		"Sources": [
+			[
+				"Scarlet",
+				"Paldea",
 				"1☆"
 			],
 			[
@@ -32485,7 +32630,7 @@
 		]
 	},
 	{
-		"Name": "Yamask",
+		"Name": "Yamask (Galarian)",
 		"Sources": [
 			[
 				"Shield",
@@ -32710,7 +32855,7 @@
 		]
 	},
 	{
-		"Name": "Zigzagoon",
+		"Name": "Zigzagoon (Galarian)",
 		"Sources": [
 			[
 				"Shield",
@@ -32765,7 +32910,7 @@
 		]
 	},
 	{
-		"Name": "Zoroark",
+		"Name": "Zoroark (Unovan)",
 		"Sources": [
 			[
 				"Scarlet",
@@ -32800,7 +32945,7 @@
 		]
 	},
 	{
-		"Name": "Zorua",
+		"Name": "Zorua (Unovan)",
 		"Sources": [
 			[
 				"Scarlet",

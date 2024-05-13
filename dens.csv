@@ -1,4 +1,4 @@
-Pokemon,Game,Area,Location
+Name,Game,Area,Location
 Abomasnow,Scarlet,Paldea,5☆
 Abomasnow,Shield,Crown Tundra,Den 168
 Abomasnow,Shield,Crown Tundra,Den 169
@@ -160,19 +160,19 @@ Araquanid,Sword,Isle of Armor,Den 134
 Araquanid,Violet,Terarium,4☆
 Arboliva,Scarlet,Paldea,5☆
 Arboliva,Violet,Paldea,5☆
-Arcanine,Scarlet,Paldea,5☆
-Arcanine,Shield,Crown Tundra,Den 161
-Arcanine,Shield,Galar,Den 18
-Arcanine,Shield,Galar,Den 19
-Arcanine,Shield,Galar,Den 20
-Arcanine,Shield,Galar,Den 53
-Arcanine,Shield,Galar,Den 54
-Arcanine,Shield,Galar,Den 71
-Arcanine,Shield,Galar,Den 77
-Arcanine,Shield,Galar,Den 80
-Arcanine,Shield,Isle of Armor,Den 114
-Arcanine,Sword,Galar,Den 71
-Arcanine,Violet,Paldea,5☆
+Arcanine (Kantonian),Scarlet,Paldea,5☆
+Arcanine (Kantonian),Shield,Crown Tundra,Den 161
+Arcanine (Kantonian),Shield,Galar,Den 18
+Arcanine (Kantonian),Shield,Galar,Den 19
+Arcanine (Kantonian),Shield,Galar,Den 20
+Arcanine (Kantonian),Shield,Galar,Den 53
+Arcanine (Kantonian),Shield,Galar,Den 54
+Arcanine (Kantonian),Shield,Galar,Den 71
+Arcanine (Kantonian),Shield,Galar,Den 77
+Arcanine (Kantonian),Shield,Galar,Den 80
+Arcanine (Kantonian),Shield,Isle of Armor,Den 114
+Arcanine (Kantonian),Sword,Galar,Den 71
+Arcanine (Kantonian),Violet,Paldea,5☆
 Arctovish,Shield,Crown Tundra,Den 197
 Arctovish,Sword,Crown Tundra,Den 197
 Arctozolt,Shield,Crown Tundra,Den 197
@@ -361,36 +361,36 @@ Basculegion,Scarlet,Kitakami,5☆
 Basculegion,Scarlet,Kitakami,6☆
 Basculegion,Violet,Kitakami,5☆
 Basculegion,Violet,Kitakami,6☆
-Basculin,Scarlet,Kitakami,3☆
-Basculin,Scarlet,Paldea,3☆
-Basculin,Shield,Crown Tundra,Den 162
-Basculin,Shield,Crown Tundra,Den 163
-Basculin,Shield,Galar,Den 44
-Basculin,Shield,Galar,Den 67
-Basculin,Shield,Galar,Den 7
-Basculin,Shield,Galar,Den 76
-Basculin,Shield,Galar,Den 78
-Basculin,Shield,Galar,Den 8
-Basculin,Shield,Galar,Den 91
-Basculin,Shield,Isle of Armor,Den 136
-Basculin,Shield,Isle of Armor,Den 148
-Basculin,Sword,Crown Tundra,Den 162
-Basculin,Sword,Crown Tundra,Den 163
-Basculin,Sword,Galar,Den 44
-Basculin,Sword,Galar,Den 67
-Basculin,Sword,Galar,Den 7
-Basculin,Sword,Galar,Den 76
-Basculin,Sword,Galar,Den 78
-Basculin,Sword,Galar,Den 8
-Basculin,Sword,Galar,Den 91
-Basculin,Sword,Isle of Armor,Den 136
-Basculin,Sword,Isle of Armor,Den 148
-Basculin,Violet,Kitakami,3☆
-Basculin,Violet,Paldea,3☆
+Basculin (Blue-striped),Shield,Crown Tundra,Den 162
+Basculin (Blue-striped),Shield,Crown Tundra,Den 163
 Basculin (Blue-striped),Shield,Crown Tundra,Dynamax Adventure
+Basculin (Blue-striped),Shield,Galar,Den 44
+Basculin (Blue-striped),Shield,Galar,Den 67
+Basculin (Blue-striped),Shield,Galar,Den 7
+Basculin (Blue-striped),Shield,Galar,Den 76
+Basculin (Blue-striped),Shield,Galar,Den 78
+Basculin (Blue-striped),Shield,Galar,Den 8
+Basculin (Blue-striped),Shield,Galar,Den 91
+Basculin (Blue-striped),Shield,Isle of Armor,Den 136
+Basculin (Blue-striped),Shield,Isle of Armor,Den 148
 Basculin (Blue-striped),Sword,Crown Tundra,Dynamax Adventure
+Basculin (Red-striped),Scarlet,Paldea,3☆
 Basculin (Red-striped),Shield,Crown Tundra,Dynamax Adventure
+Basculin (Red-striped),Sword,Crown Tundra,Den 162
+Basculin (Red-striped),Sword,Crown Tundra,Den 163
 Basculin (Red-striped),Sword,Crown Tundra,Dynamax Adventure
+Basculin (Red-striped),Sword,Galar,Den 44
+Basculin (Red-striped),Sword,Galar,Den 67
+Basculin (Red-striped),Sword,Galar,Den 7
+Basculin (Red-striped),Sword,Galar,Den 76
+Basculin (Red-striped),Sword,Galar,Den 78
+Basculin (Red-striped),Sword,Galar,Den 8
+Basculin (Red-striped),Sword,Galar,Den 91
+Basculin (Red-striped),Sword,Isle of Armor,Den 136
+Basculin (Red-striped),Sword,Isle of Armor,Den 148
+Basculin (Red-striped),Violet,Paldea,3☆
+Basculin (White-striped),Scarlet,Kitakami,3☆
+Basculin (White-striped),Violet,Kitakami,3☆
 Bastiodon,Violet,Terarium,4☆
 Baxcalibur,Scarlet,Paldea,5☆
 Baxcalibur,Scarlet,Paldea,6☆
@@ -1580,16 +1580,16 @@ Ducklett,Scarlet,Kitakami,1☆
 Ducklett,Violet,Kitakami,1☆
 Dudunsparce,Scarlet,Paldea,4☆
 Dudunsparce,Violet,Paldea,4☆
-Dugtrio,Scarlet,Paldea,4☆
-Dugtrio,Scarlet,Terarium,6☆
-Dugtrio,Shield,Crown Tundra,Dynamax Adventure
-Dugtrio,Shield,Galar,Den 16
-Dugtrio,Sword,Crown Tundra,Dynamax Adventure
-Dugtrio,Sword,Galar,Den 16
-Dugtrio,Violet,Paldea,4☆
-Dugtrio,Violet,Terarium,6☆
+Dugtrio (Alolan),Scarlet,Terarium,6☆
 Dugtrio (Alolan),Shield,Crown Tundra,Dynamax Adventure
 Dugtrio (Alolan),Sword,Crown Tundra,Dynamax Adventure
+Dugtrio (Alolan),Violet,Terarium,6☆
+Dugtrio (Kantonian),Scarlet,Paldea,4☆
+Dugtrio (Kantonian),Shield,Crown Tundra,Dynamax Adventure
+Dugtrio (Kantonian),Shield,Galar,Den 16
+Dugtrio (Kantonian),Sword,Crown Tundra,Dynamax Adventure
+Dugtrio (Kantonian),Sword,Galar,Den 16
+Dugtrio (Kantonian),Violet,Paldea,4☆
 Dunsparce,Scarlet,Paldea,1☆
 Dunsparce,Scarlet,Paldea,3☆
 Dunsparce,Shield,Crown Tundra,Dynamax Adventure
@@ -1781,18 +1781,18 @@ Exeggcute,Sword,Isle of Armor,Den 117
 Exeggcute,Sword,Isle of Armor,Den 145
 Exeggcute,Sword,Isle of Armor,Den 154
 Exeggcute,Violet,Terarium,1☆
-Exeggutor,Scarlet,Terarium,5☆
-Exeggutor,Scarlet,Terarium,6☆
-Exeggutor,Shield,Crown Tundra,Dynamax Adventure
-Exeggutor,Shield,Isle of Armor,Den 117
-Exeggutor,Shield,Isle of Armor,Den 145
-Exeggutor,Shield,Isle of Armor,Den 154
-Exeggutor,Sword,Crown Tundra,Dynamax Adventure
-Exeggutor,Sword,Isle of Armor,Den 117
-Exeggutor,Sword,Isle of Armor,Den 145
-Exeggutor,Sword,Isle of Armor,Den 154
-Exeggutor,Violet,Terarium,5☆
-Exeggutor,Violet,Terarium,6☆
+Exeggutor (Alolan),Scarlet,Terarium,6☆
+Exeggutor (Alolan),Violet,Terarium,6☆
+Exeggutor (Kantonian),Scarlet,Terarium,5☆
+Exeggutor (Kantonian),Shield,Crown Tundra,Dynamax Adventure
+Exeggutor (Kantonian),Shield,Isle of Armor,Den 117
+Exeggutor (Kantonian),Shield,Isle of Armor,Den 145
+Exeggutor (Kantonian),Shield,Isle of Armor,Den 154
+Exeggutor (Kantonian),Sword,Crown Tundra,Dynamax Adventure
+Exeggutor (Kantonian),Sword,Isle of Armor,Den 117
+Exeggutor (Kantonian),Sword,Isle of Armor,Den 145
+Exeggutor (Kantonian),Sword,Isle of Armor,Den 154
+Exeggutor (Kantonian),Violet,Terarium,5☆
 Exploud,Shield,Crown Tundra,Dynamax Adventure
 Exploud,Shield,Isle of Armor,Den 101
 Exploud,Shield,Isle of Armor,Den 102
@@ -1814,9 +1814,9 @@ Falinks,Sword,Galar,Den 81
 Falinks,Sword,Isle of Armor,Den 124
 Falinks,Violet,Paldea,4☆
 Falinks,Violet,Paldea,5☆
-Farfetch'd,Sword,Crown Tundra,Den 173
-Farfetch'd,Sword,Galar,Den 10
-Farfetch'd,Sword,Galar,Den 81
+Farfetch'd (Galarian),Sword,Crown Tundra,Den 173
+Farfetch'd (Galarian),Sword,Galar,Den 10
+Farfetch'd (Galarian),Sword,Galar,Den 81
 Farigiraf,Scarlet,Paldea,4☆
 Farigiraf,Scarlet,Paldea,6☆
 Farigiraf,Violet,Paldea,4☆
@@ -1995,14 +1995,6 @@ Gabite,Scarlet,Paldea,4☆
 Gabite,Shield,Crown Tundra,Den 184
 Gabite,Shield,Crown Tundra,Den 185
 Gabite,Violet,Paldea,4☆
-Galarian,Shield,Crown Tundra,Dynamax Adventure
-Galarian,Shield,Crown Tundra,Dynamax Adventure
-Galarian,Shield,Crown Tundra,Dynamax Adventure
-Galarian,Shield,Crown Tundra,Dynamax Adventure
-Galarian,Sword,Crown Tundra,Dynamax Adventure
-Galarian,Sword,Crown Tundra,Dynamax Adventure
-Galarian,Sword,Crown Tundra,Dynamax Adventure
-Galarian,Sword,Crown Tundra,Dynamax Adventure
 Gallade,Scarlet,Paldea,5☆
 Gallade,Scarlet,Paldea,6☆
 Gallade,Shield,Galar,Den 48
@@ -2081,20 +2073,20 @@ Gastly,Sword,Galar,Den 30
 Gastly,Sword,Galar,Den 43
 Gastly,Sword,Galar,Den 6
 Gastly,Violet,Paldea,2☆
-Gastrodon,Scarlet,Paldea,4☆
-Gastrodon,Shield,Galar,Den 42
-Gastrodon,Shield,Galar,Den 52
-Gastrodon,Shield,Galar,Den 78
-Gastrodon,Shield,Galar,Den 8
-Gastrodon,Shield,Galar,Den 93
-Gastrodon,Sword,Galar,Den 42
-Gastrodon,Sword,Galar,Den 52
-Gastrodon,Sword,Galar,Den 78
-Gastrodon,Sword,Galar,Den 8
-Gastrodon,Sword,Galar,Den 93
-Gastrodon,Violet,Paldea,4☆
+Gastrodon (East Sea),Scarlet,Paldea,4☆
 Gastrodon (East Sea),Shield,Crown Tundra,Dynamax Adventure
+Gastrodon (East Sea),Shield,Galar,Den 42
+Gastrodon (East Sea),Shield,Galar,Den 52
+Gastrodon (East Sea),Shield,Galar,Den 78
+Gastrodon (East Sea),Shield,Galar,Den 8
+Gastrodon (East Sea),Shield,Galar,Den 93
 Gastrodon (East Sea),Sword,Crown Tundra,Dynamax Adventure
+Gastrodon (East Sea),Sword,Galar,Den 42
+Gastrodon (East Sea),Sword,Galar,Den 52
+Gastrodon (East Sea),Sword,Galar,Den 78
+Gastrodon (East Sea),Sword,Galar,Den 8
+Gastrodon (East Sea),Sword,Galar,Den 93
+Gastrodon (West Sea),Violet,Paldea,4☆
 Gengar,Scarlet,Paldea,5☆
 Gengar,Scarlet,Paldea,6☆
 Gengar,Shield,Crown Tundra,Den 183
@@ -2104,10 +2096,10 @@ Gengar,Sword,Crown Tundra,Den 183
 Gengar,Sword,Galar,Den 43
 Gengar,Violet,Paldea,5☆
 Gengar,Violet,Paldea,6☆
-Geodude,Scarlet,Kitakami,1☆
-Geodude,Scarlet,Terarium,3☆
-Geodude,Violet,Kitakami,1☆
-Geodude,Violet,Terarium,3☆
+Geodude (Alolan),Scarlet,Terarium,3☆
+Geodude (Alolan),Violet,Terarium,3☆
+Geodude (Kantonian),Scarlet,Kitakami,1☆
+Geodude (Kantonian),Violet,Kitakami,1☆
 Gible,Scarlet,Paldea,3☆
 Gible,Shield,Crown Tundra,Den 184
 Gible,Shield,Crown Tundra,Den 185
@@ -2188,12 +2180,12 @@ Golduck,Sword,Isle of Armor,Den 135
 Golduck,Sword,Isle of Armor,Den 136
 Golduck,Sword,Isle of Armor,Den 148
 Golduck,Violet,Paldea,4☆
-Golem,Scarlet,Kitakami,5☆
-Golem,Scarlet,Kitakami,6☆
-Golem,Scarlet,Terarium,6☆
-Golem,Violet,Kitakami,5☆
-Golem,Violet,Kitakami,6☆
-Golem,Violet,Terarium,6☆
+Golem (Alolan),Scarlet,Terarium,6☆
+Golem (Alolan),Violet,Terarium,6☆
+Golem (Kantonian),Scarlet,Kitakami,5☆
+Golem (Kantonian),Scarlet,Kitakami,6☆
+Golem (Kantonian),Violet,Kitakami,5☆
+Golem (Kantonian),Violet,Kitakami,6☆
 Golett,Scarlet,Terarium,3☆
 Golett,Shield,Crown Tundra,Den 172
 Golett,Shield,Galar,Den 52
@@ -2224,15 +2216,15 @@ Golurk,Sword,Galar,Den 93
 Golurk,Sword,Isle of Armor,Den 104
 Golurk,Violet,Terarium,5☆
 Golurk,Violet,Terarium,6☆
-Goodra,Scarlet,Paldea,5☆
-Goodra,Scarlet,Paldea,6☆
-Goodra,Shield,Galar,Den 37
-Goodra,Shield,Galar,Den 38
-Goodra,Shield,Galar,Den 64
-Goodra,Shield,Isle of Armor,Den 131
-Goodra,Shield,Isle of Armor,Den 132
-Goodra,Violet,Paldea,5☆
-Goodra,Violet,Paldea,6☆
+Goodra (Kalosian),Scarlet,Paldea,5☆
+Goodra (Kalosian),Scarlet,Paldea,6☆
+Goodra (Kalosian),Shield,Galar,Den 37
+Goodra (Kalosian),Shield,Galar,Den 38
+Goodra (Kalosian),Shield,Galar,Den 64
+Goodra (Kalosian),Shield,Isle of Armor,Den 131
+Goodra (Kalosian),Shield,Isle of Armor,Den 132
+Goodra (Kalosian),Violet,Paldea,5☆
+Goodra (Kalosian),Violet,Paldea,6☆
 Goomy,Scarlet,Paldea,3☆
 Goomy,Shield,Galar,Den 37
 Goomy,Shield,Galar,Den 38
@@ -2265,16 +2257,16 @@ Gothorita,Scarlet,Paldea,3☆
 Gothorita,Sword,Crown Tundra,Den 178
 Gothorita,Sword,Galar,Den 2
 Gothorita,Violet,Paldea,3☆
+Gourgeist,Shield,Crown Tundra,Dynamax Adventure
 Gourgeist,Shield,Galar,Den 28
 Gourgeist,Shield,Galar,Den 6
 Gourgeist,Shield,Isle of Armor,Den 128
+Gourgeist,Sword,Crown Tundra,Dynamax Adventure
 Gourgeist,Sword,Galar,Den 28
 Gourgeist,Sword,Galar,Den 43
 Gourgeist,Sword,Galar,Den 47
 Gourgeist,Sword,Galar,Den 6
 Gourgeist,Sword,Isle of Armor,Den 128
-Gourgeist (Average Size),Shield,Crown Tundra,Dynamax Adventure
-Gourgeist (Average Size),Sword,Crown Tundra,Dynamax Adventure
 Grafaiai,Scarlet,Paldea,4☆
 Grafaiai,Scarlet,Paldea,6☆
 Grafaiai,Violet,Paldea,4☆
@@ -2289,8 +2281,8 @@ Grapploct,Sword,Crown Tundra,Dynamax Adventure
 Grapploct,Sword,Galar,Den 10
 Grapploct,Sword,Isle of Armor,Den 123
 Grapploct,Sword,Isle of Armor,Den 124
-Graveler,Scarlet,Kitakami,4☆
-Graveler,Violet,Kitakami,4☆
+Graveler (Kantonian),Scarlet,Kitakami,4☆
+Graveler (Kantonian),Violet,Kitakami,4☆
 Greavard,Scarlet,Paldea,1☆
 Greavard,Violet,Paldea,1☆
 Greedent,Scarlet,Paldea,3☆
@@ -2307,10 +2299,10 @@ Greedent,Sword,Isle of Armor,Den 151
 Greedent,Sword,Isle of Armor,Den 158
 Greedent,Violet,Paldea,3☆
 Greedent,Violet,Paldea,5☆
-Grimer,Scarlet,Paldea,2☆
-Grimer,Scarlet,Terarium,3☆
-Grimer,Violet,Paldea,2☆
-Grimer,Violet,Terarium,3☆
+Grimer (Alolan),Scarlet,Terarium,3☆
+Grimer (Alolan),Violet,Terarium,3☆
+Grimer (Kantonian),Scarlet,Paldea,2☆
+Grimer (Kantonian),Violet,Paldea,2☆
 Grimmsnarl,Scarlet,Paldea,5☆
 Grimmsnarl,Shield,Crown Tundra,Den 186
 Grimmsnarl,Shield,Crown Tundra,Den 187
@@ -2336,16 +2328,16 @@ Grimmsnarl,Violet,Paldea,5☆
 Groudon,Sword,Crown Tundra,Dynamax Adventure
 Grovyle,Shield,Crown Tundra,Dynamax Adventure
 Grovyle,Sword,Crown Tundra,Dynamax Adventure
-Growlithe,Scarlet,Paldea,2☆
-Growlithe,Shield,Galar,Den 18
-Growlithe,Shield,Galar,Den 19
-Growlithe,Shield,Galar,Den 20
-Growlithe,Shield,Galar,Den 53
-Growlithe,Shield,Galar,Den 54
-Growlithe,Shield,Galar,Den 71
-Growlithe,Shield,Galar,Den 77
-Growlithe,Shield,Galar,Den 80
-Growlithe,Violet,Paldea,2☆
+Growlithe (Kantonian),Scarlet,Paldea,2☆
+Growlithe (Kantonian),Shield,Galar,Den 18
+Growlithe (Kantonian),Shield,Galar,Den 19
+Growlithe (Kantonian),Shield,Galar,Den 20
+Growlithe (Kantonian),Shield,Galar,Den 53
+Growlithe (Kantonian),Shield,Galar,Den 54
+Growlithe (Kantonian),Shield,Galar,Den 71
+Growlithe (Kantonian),Shield,Galar,Den 77
+Growlithe (Kantonian),Shield,Galar,Den 80
+Growlithe (Kantonian),Violet,Paldea,2☆
 Grubbin,Scarlet,Kitakami,1☆
 Grubbin,Shield,Galar,Den 4
 Grubbin,Sword,Galar,Den 4
@@ -3007,34 +2999,34 @@ Lileep,Shield,Crown Tundra,Den 167
 Lileep,Shield,Crown Tundra,Den 196
 Lileep,Sword,Crown Tundra,Den 166
 Lileep,Sword,Crown Tundra,Den 167
-Lilligant,Scarlet,Paldea,4☆
-Lilligant,Shield,Crown Tundra,Dynamax Adventure
-Lilligant,Shield,Isle of Armor,Den 111
-Lilligant,Shield,Isle of Armor,Den 112
-Lilligant,Sword,Crown Tundra,Dynamax Adventure
-Lilligant,Sword,Isle of Armor,Den 111
-Lilligant,Sword,Isle of Armor,Den 112
-Lilligant,Violet,Paldea,4☆
+Lilligant (Unovan),Scarlet,Paldea,4☆
+Lilligant (Unovan),Shield,Crown Tundra,Dynamax Adventure
+Lilligant (Unovan),Shield,Isle of Armor,Den 111
+Lilligant (Unovan),Shield,Isle of Armor,Den 112
+Lilligant (Unovan),Sword,Crown Tundra,Dynamax Adventure
+Lilligant (Unovan),Sword,Isle of Armor,Den 111
+Lilligant (Unovan),Sword,Isle of Armor,Den 112
+Lilligant (Unovan),Violet,Paldea,4☆
 Lillipup,Shield,Isle of Armor,Den 100
 Lillipup,Shield,Isle of Armor,Den 99
 Lillipup,Sword,Isle of Armor,Den 100
 Lillipup,Sword,Isle of Armor,Den 99
-Linoone,Shield,Crown Tundra,Den 186
-Linoone,Shield,Crown Tundra,Dynamax Adventure
-Linoone,Shield,Crown Tundra,Dynamax Adventure
-Linoone,Shield,Galar,Den 36
-Linoone,Shield,Galar,Den 40
-Linoone,Shield,Galar,Den 63
-Linoone,Shield,Galar,Den 69
-Linoone,Shield,Galar,Den 88
-Linoone,Sword,Crown Tundra,Den 186
-Linoone,Sword,Crown Tundra,Dynamax Adventure
-Linoone,Sword,Crown Tundra,Dynamax Adventure
-Linoone,Sword,Galar,Den 36
-Linoone,Sword,Galar,Den 40
-Linoone,Sword,Galar,Den 63
-Linoone,Sword,Galar,Den 69
-Linoone,Sword,Galar,Den 88
+Linoone (Galarian),Shield,Crown Tundra,Den 186
+Linoone (Galarian),Shield,Crown Tundra,Dynamax Adventure
+Linoone (Galarian),Shield,Galar,Den 36
+Linoone (Galarian),Shield,Galar,Den 40
+Linoone (Galarian),Shield,Galar,Den 63
+Linoone (Galarian),Shield,Galar,Den 69
+Linoone (Galarian),Shield,Galar,Den 88
+Linoone (Galarian),Sword,Crown Tundra,Den 186
+Linoone (Galarian),Sword,Crown Tundra,Dynamax Adventure
+Linoone (Galarian),Sword,Galar,Den 36
+Linoone (Galarian),Sword,Galar,Den 40
+Linoone (Galarian),Sword,Galar,Den 63
+Linoone (Galarian),Sword,Galar,Den 69
+Linoone (Galarian),Sword,Galar,Den 88
+Linoone (Hoennian),Shield,Crown Tundra,Dynamax Adventure
+Linoone (Hoennian),Sword,Crown Tundra,Dynamax Adventure
 Litleo,Scarlet,Paldea,1☆
 Litleo,Violet,Paldea,1☆
 Litwick,Scarlet,Kitakami,2☆
@@ -3125,22 +3117,32 @@ Luxray,Sword,Crown Tundra,Dynamax Adventure
 Luxray,Sword,Isle of Armor,Den 105
 Luxray,Sword,Isle of Armor,Den 106
 Luxray,Violet,Paldea,5☆
-Lycanroc,Scarlet,Paldea,4☆
-Lycanroc,Scarlet,Paldea,6☆
-Lycanroc,Shield,Crown Tundra,Dynamax Adventure
-Lycanroc,Shield,Crown Tundra,Dynamax Adventure
-Lycanroc,Shield,Isle of Armor,Den 115
-Lycanroc,Shield,Isle of Armor,Den 116
-Lycanroc,Shield,Isle of Armor,Den 156
-Lycanroc,Shield,Isle of Armor,Den 157
-Lycanroc,Sword,Crown Tundra,Dynamax Adventure
-Lycanroc,Sword,Crown Tundra,Dynamax Adventure
-Lycanroc,Sword,Isle of Armor,Den 115
-Lycanroc,Sword,Isle of Armor,Den 116
-Lycanroc,Sword,Isle of Armor,Den 156
-Lycanroc,Sword,Isle of Armor,Den 157
-Lycanroc,Violet,Paldea,4☆
-Lycanroc,Violet,Paldea,6☆
+Lycanroc (Dusk),Scarlet,Paldea,6☆
+Lycanroc (Dusk),Violet,Paldea,6☆
+Lycanroc (Midday),Scarlet,Paldea,4☆
+Lycanroc (Midday),Shield,Crown Tundra,Dynamax Adventure
+Lycanroc (Midday),Shield,Isle of Armor,Den 115
+Lycanroc (Midday),Shield,Isle of Armor,Den 116
+Lycanroc (Midday),Shield,Isle of Armor,Den 156
+Lycanroc (Midday),Shield,Isle of Armor,Den 157
+Lycanroc (Midday),Sword,Crown Tundra,Dynamax Adventure
+Lycanroc (Midday),Sword,Isle of Armor,Den 115
+Lycanroc (Midday),Sword,Isle of Armor,Den 116
+Lycanroc (Midday),Sword,Isle of Armor,Den 156
+Lycanroc (Midday),Sword,Isle of Armor,Den 157
+Lycanroc (Midday),Violet,Paldea,4☆
+Lycanroc (Midnight),Scarlet,Paldea,4☆
+Lycanroc (Midnight),Shield,Crown Tundra,Dynamax Adventure
+Lycanroc (Midnight),Shield,Isle of Armor,Den 115
+Lycanroc (Midnight),Shield,Isle of Armor,Den 116
+Lycanroc (Midnight),Shield,Isle of Armor,Den 156
+Lycanroc (Midnight),Shield,Isle of Armor,Den 157
+Lycanroc (Midnight),Sword,Crown Tundra,Dynamax Adventure
+Lycanroc (Midnight),Sword,Isle of Armor,Den 115
+Lycanroc (Midnight),Sword,Isle of Armor,Den 116
+Lycanroc (Midnight),Sword,Isle of Armor,Den 156
+Lycanroc (Midnight),Sword,Isle of Armor,Den 157
+Lycanroc (Midnight),Violet,Paldea,4☆
 Mabosstiff,Scarlet,Paldea,5☆
 Mabosstiff,Scarlet,Paldea,6☆
 Mabosstiff,Violet,Paldea,5☆
@@ -3330,16 +3332,16 @@ Marill,Shield,Isle of Armor,Den 126
 Marill,Sword,Isle of Armor,Den 125
 Marill,Sword,Isle of Armor,Den 126
 Marill,Violet,Paldea,3☆
-Marowak,Shield,Crown Tundra,Dynamax Adventure
-Marowak,Shield,Isle of Armor,Den 103
-Marowak,Shield,Isle of Armor,Den 104
-Marowak,Shield,Isle of Armor,Den 127
-Marowak,Sword,Crown Tundra,Dynamax Adventure
-Marowak,Sword,Isle of Armor,Den 103
-Marowak,Sword,Isle of Armor,Den 104
-Marowak,Sword,Isle of Armor,Den 127
 Marowak (Alolan),Shield,Crown Tundra,Dynamax Adventure
 Marowak (Alolan),Sword,Crown Tundra,Dynamax Adventure
+Marowak (Kantonian),Shield,Crown Tundra,Dynamax Adventure
+Marowak (Kantonian),Shield,Isle of Armor,Den 103
+Marowak (Kantonian),Shield,Isle of Armor,Den 104
+Marowak (Kantonian),Shield,Isle of Armor,Den 127
+Marowak (Kantonian),Sword,Crown Tundra,Dynamax Adventure
+Marowak (Kantonian),Sword,Isle of Armor,Den 103
+Marowak (Kantonian),Sword,Isle of Armor,Den 104
+Marowak (Kantonian),Sword,Isle of Armor,Den 127
 Marshtomp,Shield,Crown Tundra,Dynamax Adventure
 Marshtomp,Sword,Crown Tundra,Dynamax Adventure
 Maschiff,Scarlet,Paldea,1☆
@@ -3368,18 +3370,18 @@ Meowstic,Shield,Isle of Armor,Den 118
 Meowstic,Sword,Galar,Den 2
 Meowstic,Sword,Isle of Armor,Den 118
 Meowstic,Violet,Terarium,4☆
-Meowth,Scarlet,Paldea,2☆
-Meowth,Shield,Crown Tundra,Den 189
-Meowth,Shield,Galar,Den 11
-Meowth,Shield,Galar,Den 49
-Meowth,Shield,Galar,Den 85
-Meowth,Shield,Isle of Armor,Den 130
-Meowth,Sword,Crown Tundra,Den 189
-Meowth,Sword,Galar,Den 11
-Meowth,Sword,Galar,Den 49
-Meowth,Sword,Galar,Den 85
-Meowth,Sword,Isle of Armor,Den 130
-Meowth,Violet,Paldea,2☆
+Meowth (Galarian),Shield,Crown Tundra,Den 189
+Meowth (Galarian),Shield,Galar,Den 11
+Meowth (Galarian),Shield,Galar,Den 49
+Meowth (Galarian),Shield,Galar,Den 85
+Meowth (Galarian),Shield,Isle of Armor,Den 130
+Meowth (Galarian),Sword,Crown Tundra,Den 189
+Meowth (Galarian),Sword,Galar,Den 11
+Meowth (Galarian),Sword,Galar,Den 49
+Meowth (Galarian),Sword,Galar,Den 85
+Meowth (Galarian),Sword,Isle of Armor,Den 130
+Meowth (Kantonian),Scarlet,Paldea,2☆
+Meowth (Kantonian),Violet,Paldea,2☆
 Mesprit,Shield,Crown Tundra,Dynamax Adventure
 Mesprit,Sword,Crown Tundra,Dynamax Adventure
 Metagross,Scarlet,Terarium,5☆
@@ -3404,10 +3406,6 @@ Metapod,Sword,Galar,Den 4
 Metapod,Sword,Galar,Den 5
 Mewtwo,Shield,Crown Tundra,Dynamax Adventure
 Mewtwo,Sword,Crown Tundra,Dynamax Adventure
-Midday,Shield,Crown Tundra,Dynamax Adventure
-Midday,Sword,Crown Tundra,Dynamax Adventure
-Midnight,Shield,Crown Tundra,Dynamax Adventure
-Midnight,Sword,Crown Tundra,Dynamax Adventure
 Mienfoo,Scarlet,Kitakami,3☆
 Mienfoo,Shield,Isle of Armor,Den 123
 Mienfoo,Shield,Isle of Armor,Den 124
@@ -3573,10 +3571,10 @@ Mudsdale,Shield,Galar,Den 16
 Mudsdale,Sword,Crown Tundra,Dynamax Adventure
 Mudsdale,Sword,Galar,Den 16
 Mudsdale,Violet,Paldea,5☆
-Muk,Scarlet,Paldea,4☆
-Muk,Scarlet,Terarium,6☆
-Muk,Violet,Paldea,4☆
-Muk,Violet,Terarium,6☆
+Muk (Alolan),Scarlet,Terarium,6☆
+Muk (Alolan),Violet,Terarium,6☆
+Muk (Kantonian),Scarlet,Paldea,4☆
+Muk (Kantonian),Violet,Paldea,4☆
 Munchlax,Scarlet,Kitakami,2☆
 Munchlax,Scarlet,Kitakami,3☆
 Munchlax,Shield,Crown Tundra,Dynamax Adventure
@@ -3651,20 +3649,22 @@ Nincada,Shield,Galar,Den 16
 Nincada,Shield,Galar,Den 4
 Nincada,Sword,Galar,Den 16
 Nincada,Sword,Galar,Den 4
-Ninetales,Scarlet,Kitakami,5☆
-Ninetales,Scarlet,Kitakami,6☆
-Ninetales,Scarlet,Terarium,6☆
-Ninetales,Shield,Galar,Den 71
-Ninetales,Sword,Crown Tundra,Den 161
-Ninetales,Sword,Galar,Den 18
-Ninetales,Sword,Galar,Den 19
-Ninetales,Sword,Galar,Den 20
-Ninetales,Sword,Galar,Den 53
-Ninetales,Sword,Galar,Den 54
-Ninetales,Sword,Galar,Den 71
-Ninetales,Sword,Galar,Den 77
-Ninetales,Sword,Galar,Den 80
-Ninetales,Sword,Isle of Armor,Den 114
+Ninetales (Alolan),Scarlet,Kitakami,6☆
+Ninetales (Kantonian),Scarlet,Kitakami,5☆
+Ninetales (Kantonian),Scarlet,Terarium,6☆
+Ninetales (Kantonian),Shield,Galar,Den 71
+Ninetales (Kantonian),Sword,Crown Tundra,Den 161
+Ninetales (Kantonian),Sword,Galar,Den 18
+Ninetales (Kantonian),Sword,Galar,Den 19
+Ninetales (Kantonian),Sword,Galar,Den 20
+Ninetales (Kantonian),Sword,Galar,Den 53
+Ninetales (Kantonian),Sword,Galar,Den 54
+Ninetales (Kantonian),Sword,Galar,Den 71
+Ninetales (Kantonian),Sword,Galar,Den 77
+Ninetales (Kantonian),Sword,Galar,Den 80
+Ninetales (Kantonian),Sword,Isle of Armor,Den 114
+Ninetales (Kantonian),Violet,Kitakami,5☆
+Ninetales (Kantonian),Violet,Terarium,6☆
 Ninjask,Shield,Crown Tundra,Dynamax Adventure
 Ninjask,Shield,Galar,Den 4
 Ninjask,Shield,Isle of Armor,Den 149
@@ -3899,12 +3899,12 @@ Perrserker,Sword,Galar,Den 11
 Perrserker,Sword,Galar,Den 49
 Perrserker,Sword,Galar,Den 85
 Perrserker,Sword,Isle of Armor,Den 130
-Persian,Scarlet,Paldea,4☆
-Persian,Shield,Crown Tundra,Dynamax Adventure
-Persian,Sword,Crown Tundra,Dynamax Adventure
-Persian,Violet,Paldea,4☆
 Persian (Alolan),Shield,Crown Tundra,Dynamax Adventure
 Persian (Alolan),Sword,Crown Tundra,Dynamax Adventure
+Persian (Kantonian),Scarlet,Paldea,4☆
+Persian (Kantonian),Shield,Crown Tundra,Dynamax Adventure
+Persian (Kantonian),Sword,Crown Tundra,Dynamax Adventure
+Persian (Kantonian),Violet,Paldea,4☆
 Petilil,Scarlet,Paldea,1☆
 Petilil,Shield,Isle of Armor,Den 111
 Petilil,Sword,Isle of Armor,Den 111
@@ -4026,23 +4026,25 @@ Poliwrath,Sword,Isle of Armor,Den 133
 Poliwrath,Sword,Isle of Armor,Den 134
 Poliwrath,Violet,Kitakami,5☆
 Poliwrath,Violet,Kitakami,6☆
-Poltchageist,Scarlet,Kitakami,3☆
-Poltchageist,Violet,Kitakami,3☆
-Polteageist,Scarlet,Paldea,4☆
-Polteageist,Scarlet,Paldea,5☆
-Polteageist,Shield,Crown Tundra,Den 193
-Polteageist,Shield,Crown Tundra,Dynamax Adventure
-Polteageist,Shield,Galar,Den 47
-Polteageist,Shield,Galar,Den 81
-Polteageist,Sword,Crown Tundra,Den 193
-Polteageist,Sword,Crown Tundra,Dynamax Adventure
-Polteageist,Sword,Galar,Den 43
-Polteageist,Sword,Galar,Den 47
-Polteageist,Violet,Paldea,4☆
-Polteageist,Violet,Paldea,5☆
-Ponyta,Shield,Crown Tundra,Den 178
-Ponyta,Shield,Galar,Den 13
-Ponyta,Shield,Galar,Den 82
+Poltchageist (Counterfeit),Scarlet,Kitakami,3☆
+Poltchageist (Counterfeit),Violet,Kitakami,3☆
+Polteageist (Antique),Shield,Crown Tundra,Den 193
+Polteageist (Antique),Sword,Crown Tundra,Den 193
+Polteageist (Phony),Scarlet,Paldea,4☆
+Polteageist (Phony),Scarlet,Paldea,5☆
+Polteageist (Phony),Shield,Crown Tundra,Den 193
+Polteageist (Phony),Shield,Crown Tundra,Dynamax Adventure
+Polteageist (Phony),Shield,Galar,Den 47
+Polteageist (Phony),Shield,Galar,Den 81
+Polteageist (Phony),Sword,Crown Tundra,Den 193
+Polteageist (Phony),Sword,Crown Tundra,Dynamax Adventure
+Polteageist (Phony),Sword,Galar,Den 43
+Polteageist (Phony),Sword,Galar,Den 47
+Polteageist (Phony),Violet,Paldea,4☆
+Polteageist (Phony),Violet,Paldea,5☆
+Ponyta (Galarian),Shield,Crown Tundra,Den 178
+Ponyta (Galarian),Shield,Galar,Den 13
+Ponyta (Galarian),Shield,Galar,Den 82
 Poochyena,Scarlet,Kitakami,1☆
 Poochyena,Violet,Kitakami,1☆
 Porygon,Scarlet,Terarium,3☆
@@ -4139,18 +4141,18 @@ Qwilfish,Sword,Isle of Armor,Den 120
 Qwilfish,Violet,Paldea,3☆
 Rabsca,Scarlet,Paldea,4☆
 Rabsca,Violet,Paldea,4☆
-Raichu,Scarlet,Paldea,4☆
-Raichu,Scarlet,Paldea,5☆
-Raichu,Shield,Crown Tundra,Dynamax Adventure
-Raichu,Shield,Galar,Den 24
-Raichu,Shield,Isle of Armor,Den 106
-Raichu,Sword,Crown Tundra,Dynamax Adventure
-Raichu,Sword,Galar,Den 24
-Raichu,Sword,Isle of Armor,Den 106
-Raichu,Violet,Paldea,4☆
-Raichu,Violet,Paldea,5☆
 Raichu (Alolan),Shield,Crown Tundra,Dynamax Adventure
 Raichu (Alolan),Sword,Crown Tundra,Dynamax Adventure
+Raichu (Kantonian),Scarlet,Paldea,4☆
+Raichu (Kantonian),Scarlet,Paldea,5☆
+Raichu (Kantonian),Shield,Crown Tundra,Dynamax Adventure
+Raichu (Kantonian),Shield,Galar,Den 24
+Raichu (Kantonian),Shield,Isle of Armor,Den 106
+Raichu (Kantonian),Sword,Crown Tundra,Dynamax Adventure
+Raichu (Kantonian),Sword,Galar,Den 24
+Raichu (Kantonian),Sword,Isle of Armor,Den 106
+Raichu (Kantonian),Violet,Paldea,4☆
+Raichu (Kantonian),Violet,Paldea,5☆
 Raikou,Shield,Crown Tundra,Dynamax Adventure
 Raikou,Sword,Crown Tundra,Dynamax Adventure
 Ralts,Scarlet,Paldea,1☆
@@ -4172,11 +4174,11 @@ Ralts,Sword,Galar,Den 87
 Ralts,Sword,Isle of Armor,Den 117
 Ralts,Violet,Paldea,1☆
 Rampardos,Scarlet,Terarium,4☆
-Rapidash,Shield,Crown Tundra,Den 178
-Rapidash,Shield,Galar,Den 13
-Rapidash,Shield,Galar,Den 34
-Rapidash,Shield,Galar,Den 62
-Rapidash,Shield,Galar,Den 82
+Rapidash (Galarian),Shield,Crown Tundra,Den 178
+Rapidash (Galarian),Shield,Galar,Den 13
+Rapidash (Galarian),Shield,Galar,Den 34
+Rapidash (Galarian),Shield,Galar,Den 62
+Rapidash (Galarian),Shield,Galar,Den 82
 Rayquaza,Shield,Crown Tundra,Dynamax Adventure
 Rayquaza,Sword,Crown Tundra,Dynamax Adventure
 Relicanth,Shield,Crown Tundra,Den 162
@@ -4408,24 +4410,26 @@ Sandile,Scarlet,Paldea,2☆
 Sandile,Shield,Isle of Armor,Den 103
 Sandile,Sword,Isle of Armor,Den 103
 Sandile,Violet,Paldea,2☆
-Sandshrew,Shield,Isle of Armor,Den 103
-Sandshrew,Shield,Isle of Armor,Den 104
-Sandshrew,Sword,Isle of Armor,Den 103
-Sandshrew,Sword,Isle of Armor,Den 104
-Sandshrew,Violet,Kitakami,1☆
-Sandshrew,Violet,Kitakami,3☆
-Sandshrew,Violet,Terarium,3☆
-Sandslash,Shield,Crown Tundra,Dynamax Adventure
-Sandslash,Shield,Isle of Armor,Den 103
-Sandslash,Shield,Isle of Armor,Den 104
-Sandslash,Shield,Isle of Armor,Den 150
-Sandslash,Sword,Crown Tundra,Dynamax Adventure
-Sandslash,Sword,Isle of Armor,Den 103
-Sandslash,Sword,Isle of Armor,Den 104
-Sandslash,Sword,Isle of Armor,Den 150
-Sandslash,Violet,Terarium,6☆
+Sandshrew (Alolan),Violet,Terarium,3☆
+Sandshrew (Kantonian),Scarlet,Kitakami,1☆
+Sandshrew (Kantonian),Scarlet,Kitakami,3☆
+Sandshrew (Kantonian),Shield,Isle of Armor,Den 103
+Sandshrew (Kantonian),Shield,Isle of Armor,Den 104
+Sandshrew (Kantonian),Sword,Isle of Armor,Den 103
+Sandshrew (Kantonian),Sword,Isle of Armor,Den 104
+Sandshrew (Kantonian),Violet,Kitakami,1☆
+Sandshrew (Kantonian),Violet,Kitakami,3☆
 Sandslash (Alolan),Shield,Crown Tundra,Dynamax Adventure
 Sandslash (Alolan),Sword,Crown Tundra,Dynamax Adventure
+Sandslash (Alolan),Violet,Terarium,6☆
+Sandslash (Kantonian),Shield,Crown Tundra,Dynamax Adventure
+Sandslash (Kantonian),Shield,Isle of Armor,Den 103
+Sandslash (Kantonian),Shield,Isle of Armor,Den 104
+Sandslash (Kantonian),Shield,Isle of Armor,Den 150
+Sandslash (Kantonian),Sword,Crown Tundra,Dynamax Adventure
+Sandslash (Kantonian),Sword,Isle of Armor,Den 103
+Sandslash (Kantonian),Sword,Isle of Armor,Den 104
+Sandslash (Kantonian),Sword,Isle of Armor,Den 150
 Sandygast,Scarlet,Paldea,2☆
 Sandygast,Shield,Isle of Armor,Den 127
 Sandygast,Shield,Isle of Armor,Den 128
@@ -4559,12 +4563,12 @@ Shellder,Sword,Isle of Armor,Den 138
 Shellder,Sword,Isle of Armor,Den 155
 Shellder,Violet,Paldea,1☆
 Shellder,Violet,Paldea,2☆
-Shellos,Scarlet,Paldea,2☆
-Shellos,Shield,Galar,Den 42
-Shellos,Shield,Galar,Den 8
-Shellos,Sword,Galar,Den 42
-Shellos,Sword,Galar,Den 8
-Shellos,Violet,Paldea,2☆
+Shellos (East Sea),Scarlet,Paldea,2☆
+Shellos (East Sea),Shield,Galar,Den 42
+Shellos (East Sea),Shield,Galar,Den 8
+Shellos (East Sea),Sword,Galar,Den 42
+Shellos (East Sea),Sword,Galar,Den 8
+Shellos (West Sea),Violet,Paldea,2☆
 Shelmet,Shield,Galar,Den 46
 Shelmet,Shield,Galar,Den 90
 Shelmet,Shield,Galar,Den 92
@@ -4631,21 +4635,27 @@ Silicobra,Shield,Isle of Armor,Den 150
 Silicobra,Sword,Galar,Den 17
 Silicobra,Sword,Isle of Armor,Den 150
 Silicobra,Violet,Paldea,1☆
-Sinistcha,Scarlet,Kitakami,5☆
-Sinistcha,Scarlet,Kitakami,6☆
-Sinistcha,Violet,Kitakami,5☆
-Sinistcha,Violet,Kitakami,6☆
-Sinistea,Scarlet,Paldea,2☆
-Sinistea,Shield,Crown Tundra,Den 192
-Sinistea,Shield,Crown Tundra,Den 193
-Sinistea,Shield,Galar,Den 43
-Sinistea,Shield,Galar,Den 47
-Sinistea,Shield,Galar,Den 81
-Sinistea,Sword,Crown Tundra,Den 192
-Sinistea,Sword,Crown Tundra,Den 193
-Sinistea,Sword,Galar,Den 43
-Sinistea,Sword,Galar,Den 47
-Sinistea,Violet,Paldea,2☆
+Sinistcha (Masterpiece),Scarlet,Kitakami,6☆
+Sinistcha (Masterpiece),Violet,Kitakami,6☆
+Sinistcha (Unremarkable),Scarlet,Kitakami,5☆
+Sinistcha (Unremarkable),Scarlet,Kitakami,6☆
+Sinistcha (Unremarkable),Violet,Kitakami,5☆
+Sinistcha (Unremarkable),Violet,Kitakami,6☆
+Sinistea (Antique),Shield,Crown Tundra,Den 192
+Sinistea (Antique),Shield,Crown Tundra,Den 193
+Sinistea (Antique),Sword,Crown Tundra,Den 192
+Sinistea (Antique),Sword,Crown Tundra,Den 193
+Sinistea (Phony),Scarlet,Paldea,2☆
+Sinistea (Phony),Shield,Crown Tundra,Den 192
+Sinistea (Phony),Shield,Crown Tundra,Den 193
+Sinistea (Phony),Shield,Galar,Den 43
+Sinistea (Phony),Shield,Galar,Den 47
+Sinistea (Phony),Shield,Galar,Den 81
+Sinistea (Phony),Sword,Crown Tundra,Den 192
+Sinistea (Phony),Sword,Crown Tundra,Den 193
+Sinistea (Phony),Sword,Galar,Den 43
+Sinistea (Phony),Sword,Galar,Den 47
+Sinistea (Phony),Violet,Paldea,2☆
 Sirfetch'd,Sword,Crown Tundra,Den 173
 Sirfetch'd,Sword,Galar,Den 10
 Sirfetch'd,Sword,Galar,Den 81
@@ -4726,35 +4736,37 @@ Slaking,Scarlet,Paldea,5☆
 Slaking,Violet,Paldea,5☆
 Slakoth,Scarlet,Paldea,2☆
 Slakoth,Violet,Paldea,2☆
-Sliggoo,Scarlet,Paldea,4☆
-Sliggoo,Shield,Galar,Den 37
-Sliggoo,Shield,Galar,Den 38
-Sliggoo,Shield,Galar,Den 64
-Sliggoo,Shield,Isle of Armor,Den 131
-Sliggoo,Shield,Isle of Armor,Den 132
-Sliggoo,Violet,Paldea,4☆
-Slowbro,Scarlet,Paldea,5☆
-Slowbro,Shield,Crown Tundra,Dynamax Adventure
-Slowbro,Sword,Crown Tundra,Dynamax Adventure
-Slowbro,Violet,Paldea,5☆
-Slowking,Scarlet,Paldea,5☆
-Slowking,Scarlet,Paldea,6☆
-Slowking,Scarlet,Terarium,6☆
-Slowking,Shield,Crown Tundra,Dynamax Adventure
-Slowking,Sword,Crown Tundra,Dynamax Adventure
-Slowking,Violet,Paldea,5☆
-Slowking,Violet,Paldea,6☆
-Slowking,Violet,Terarium,6☆
-Slowpoke,Scarlet,Paldea,2☆
-Slowpoke,Scarlet,Terarium,3☆
-Slowpoke,Shield,Crown Tundra,Den 175
-Slowpoke,Shield,Crown Tundra,Den 179
-Slowpoke,Shield,Isle of Armor,Den 118
-Slowpoke,Sword,Crown Tundra,Den 175
-Slowpoke,Sword,Crown Tundra,Den 179
-Slowpoke,Sword,Isle of Armor,Den 118
-Slowpoke,Violet,Paldea,2☆
-Slowpoke,Violet,Terarium,3☆
+Sliggoo (Kalosian),Scarlet,Paldea,4☆
+Sliggoo (Kalosian),Shield,Galar,Den 37
+Sliggoo (Kalosian),Shield,Galar,Den 38
+Sliggoo (Kalosian),Shield,Galar,Den 64
+Sliggoo (Kalosian),Shield,Isle of Armor,Den 131
+Sliggoo (Kalosian),Shield,Isle of Armor,Den 132
+Sliggoo (Kalosian),Violet,Paldea,4☆
+Slowbro (Galarian),Scarlet,Terarium,6☆
+Slowbro (Galarian),Violet,Terarium,6☆
+Slowbro (Kantonian),Scarlet,Paldea,5☆
+Slowbro (Kantonian),Shield,Crown Tundra,Dynamax Adventure
+Slowbro (Kantonian),Sword,Crown Tundra,Dynamax Adventure
+Slowbro (Kantonian),Violet,Paldea,5☆
+Slowking (Galarian),Scarlet,Terarium,6☆
+Slowking (Galarian),Violet,Terarium,6☆
+Slowking (Johtonian),Scarlet,Paldea,5☆
+Slowking (Johtonian),Scarlet,Paldea,6☆
+Slowking (Johtonian),Shield,Crown Tundra,Dynamax Adventure
+Slowking (Johtonian),Sword,Crown Tundra,Dynamax Adventure
+Slowking (Johtonian),Violet,Paldea,5☆
+Slowking (Johtonian),Violet,Paldea,6☆
+Slowpoke (Galarian),Scarlet,Terarium,3☆
+Slowpoke (Galarian),Shield,Crown Tundra,Den 175
+Slowpoke (Galarian),Shield,Crown Tundra,Den 179
+Slowpoke (Galarian),Shield,Isle of Armor,Den 118
+Slowpoke (Galarian),Sword,Crown Tundra,Den 175
+Slowpoke (Galarian),Sword,Crown Tundra,Den 179
+Slowpoke (Galarian),Sword,Isle of Armor,Den 118
+Slowpoke (Galarian),Violet,Terarium,3☆
+Slowpoke (Kantonian),Scarlet,Paldea,2☆
+Slowpoke (Kantonian),Violet,Paldea,2☆
 Slugma,Scarlet,Kitakami,2☆
 Slugma,Violet,Kitakami,2☆
 Slurpuff,Sword,Galar,Den 33
@@ -4766,22 +4778,22 @@ Smoochum,Shield,Crown Tundra,Den 168
 Smoochum,Shield,Crown Tundra,Den 169
 Smoochum,Sword,Crown Tundra,Den 168
 Smoochum,Sword,Crown Tundra,Den 169
-Sneasel,Scarlet,Paldea,3☆
-Sneasel,Shield,Crown Tundra,Den 186
-Sneasel,Shield,Crown Tundra,Den 187
-Sneasel,Shield,Crown Tundra,Dynamax Adventure
-Sneasel,Shield,Galar,Den 22
-Sneasel,Shield,Galar,Den 23
-Sneasel,Shield,Galar,Den 35
-Sneasel,Shield,Galar,Den 63
-Sneasel,Sword,Crown Tundra,Den 186
-Sneasel,Sword,Crown Tundra,Den 187
-Sneasel,Sword,Crown Tundra,Dynamax Adventure
-Sneasel,Sword,Galar,Den 22
-Sneasel,Sword,Galar,Den 23
-Sneasel,Sword,Galar,Den 35
-Sneasel,Sword,Galar,Den 63
-Sneasel,Violet,Paldea,3☆
+Sneasel (Johtonian),Scarlet,Paldea,3☆
+Sneasel (Johtonian),Shield,Crown Tundra,Den 186
+Sneasel (Johtonian),Shield,Crown Tundra,Den 187
+Sneasel (Johtonian),Shield,Crown Tundra,Dynamax Adventure
+Sneasel (Johtonian),Shield,Galar,Den 22
+Sneasel (Johtonian),Shield,Galar,Den 23
+Sneasel (Johtonian),Shield,Galar,Den 35
+Sneasel (Johtonian),Shield,Galar,Den 63
+Sneasel (Johtonian),Sword,Crown Tundra,Den 186
+Sneasel (Johtonian),Sword,Crown Tundra,Den 187
+Sneasel (Johtonian),Sword,Crown Tundra,Dynamax Adventure
+Sneasel (Johtonian),Sword,Galar,Den 22
+Sneasel (Johtonian),Sword,Galar,Den 23
+Sneasel (Johtonian),Sword,Galar,Den 35
+Sneasel (Johtonian),Sword,Galar,Den 63
+Sneasel (Johtonian),Violet,Paldea,3☆
 Snom,Scarlet,Paldea,1☆
 Snom,Shield,Galar,Den 22
 Snom,Shield,Galar,Den 23
@@ -4914,20 +4926,20 @@ Stufful,Sword,Galar,Den 39
 Stufful,Sword,Galar,Den 48
 Stufful,Sword,Galar,Den 81
 Stufful,Sword,Isle of Armor,Den 100
-Stunfisk,Shield,Crown Tundra,Dynamax Adventure
-Stunfisk,Shield,Crown Tundra,Dynamax Adventure
-Stunfisk,Shield,Galar,Den 17
-Stunfisk,Shield,Galar,Den 49
-Stunfisk,Shield,Galar,Den 52
-Stunfisk,Shield,Galar,Den 85
-Stunfisk,Shield,Galar,Den 93
-Stunfisk,Sword,Crown Tundra,Dynamax Adventure
-Stunfisk,Sword,Crown Tundra,Dynamax Adventure
-Stunfisk,Sword,Galar,Den 17
-Stunfisk,Sword,Galar,Den 49
-Stunfisk,Sword,Galar,Den 52
-Stunfisk,Sword,Galar,Den 85
-Stunfisk,Sword,Galar,Den 93
+Stunfisk (Galarian),Shield,Crown Tundra,Dynamax Adventure
+Stunfisk (Galarian),Shield,Galar,Den 17
+Stunfisk (Galarian),Shield,Galar,Den 49
+Stunfisk (Galarian),Shield,Galar,Den 52
+Stunfisk (Galarian),Shield,Galar,Den 85
+Stunfisk (Galarian),Shield,Galar,Den 93
+Stunfisk (Galarian),Sword,Crown Tundra,Dynamax Adventure
+Stunfisk (Galarian),Sword,Galar,Den 17
+Stunfisk (Galarian),Sword,Galar,Den 49
+Stunfisk (Galarian),Sword,Galar,Den 52
+Stunfisk (Galarian),Sword,Galar,Den 85
+Stunfisk (Galarian),Sword,Galar,Den 93
+Stunfisk (Unovan),Shield,Crown Tundra,Dynamax Adventure
+Stunfisk (Unovan),Sword,Crown Tundra,Dynamax Adventure
 Stunky,Scarlet,Paldea,2☆
 Stunky,Shield,Galar,Den 29
 Stunky,Shield,Galar,Den 35
@@ -5052,12 +5064,6 @@ Tarountula,Scarlet,Paldea,1☆
 Tarountula,Violet,Paldea,1☆
 Tatsugiri,Scarlet,Paldea,5☆
 Tatsugiri,Violet,Paldea,5☆
-Tauros,Shield,Crown Tundra,Dynamax Adventure
-Tauros,Shield,Isle of Armor,Den 101
-Tauros,Shield,Isle of Armor,Den 102
-Tauros,Sword,Crown Tundra,Dynamax Adventure
-Tauros,Sword,Isle of Armor,Den 101
-Tauros,Sword,Isle of Armor,Den 102
 Tauros (Aqua),Violet,Paldea,5☆
 Tauros (Aqua),Violet,Paldea,6☆
 Tauros (Blaze),Scarlet,Paldea,5☆
@@ -5066,6 +5072,12 @@ Tauros (Combat),Scarlet,Paldea,4☆
 Tauros (Combat),Scarlet,Paldea,6☆
 Tauros (Combat),Violet,Paldea,4☆
 Tauros (Combat),Violet,Paldea,6☆
+Tauros (Kantonian),Shield,Crown Tundra,Dynamax Adventure
+Tauros (Kantonian),Shield,Isle of Armor,Den 101
+Tauros (Kantonian),Shield,Isle of Armor,Den 102
+Tauros (Kantonian),Sword,Crown Tundra,Dynamax Adventure
+Tauros (Kantonian),Sword,Isle of Armor,Den 101
+Tauros (Kantonian),Sword,Isle of Armor,Den 102
 Teddiursa,Scarlet,Paldea,2☆
 Teddiursa,Violet,Paldea,2☆
 Tentacool,Scarlet,Terarium,2☆
@@ -5537,20 +5549,20 @@ Weavile,Sword,Galar,Den 63
 Weavile,Violet,Paldea,5☆
 Weepinbell,Scarlet,Kitakami,3☆
 Weepinbell,Violet,Kitakami,3☆
-Weezing,Shield,Crown Tundra,Den 191
-Weezing,Shield,Crown Tundra,Dynamax Adventure
-Weezing,Shield,Crown Tundra,Dynamax Adventure
-Weezing,Shield,Galar,Den 30
-Weezing,Shield,Galar,Den 60
-Weezing,Shield,Galar,Den 86
-Weezing,Shield,Isle of Armor,Den 120
-Weezing,Sword,Crown Tundra,Den 191
-Weezing,Sword,Crown Tundra,Dynamax Adventure
-Weezing,Sword,Crown Tundra,Dynamax Adventure
-Weezing,Sword,Galar,Den 30
-Weezing,Sword,Galar,Den 60
-Weezing,Sword,Galar,Den 86
-Weezing,Sword,Isle of Armor,Den 120
+Weezing (Galarian),Shield,Crown Tundra,Den 191
+Weezing (Galarian),Shield,Crown Tundra,Dynamax Adventure
+Weezing (Galarian),Shield,Galar,Den 30
+Weezing (Galarian),Shield,Galar,Den 60
+Weezing (Galarian),Shield,Galar,Den 86
+Weezing (Galarian),Shield,Isle of Armor,Den 120
+Weezing (Galarian),Sword,Crown Tundra,Den 191
+Weezing (Galarian),Sword,Crown Tundra,Dynamax Adventure
+Weezing (Galarian),Sword,Galar,Den 30
+Weezing (Galarian),Sword,Galar,Den 60
+Weezing (Galarian),Sword,Galar,Den 86
+Weezing (Galarian),Sword,Isle of Armor,Den 120
+Weezing (Kantonian),Shield,Crown Tundra,Dynamax Adventure
+Weezing (Kantonian),Sword,Crown Tundra,Dynamax Adventure
 Whimsicott,Scarlet,Terarium,4☆
 Whimsicott,Scarlet,Terarium,6☆
 Whimsicott,Shield,Crown Tundra,Den 190
@@ -5651,20 +5663,20 @@ Wooloo,Shield,Isle of Armor,Den 158
 Wooloo,Sword,Galar,Den 40
 Wooloo,Sword,Galar,Den 65
 Wooloo,Sword,Isle of Armor,Den 158
-Wooper,Scarlet,Kitakami,1☆
-Wooper,Scarlet,Paldea,1☆
-Wooper,Shield,Galar,Den 52
-Wooper,Shield,Galar,Den 75
-Wooper,Shield,Galar,Den 9
-Wooper,Shield,Galar,Den 93
-Wooper,Shield,Isle of Armor,Den 133
-Wooper,Sword,Galar,Den 52
-Wooper,Sword,Galar,Den 75
-Wooper,Sword,Galar,Den 9
-Wooper,Sword,Galar,Den 93
-Wooper,Sword,Isle of Armor,Den 133
-Wooper,Violet,Kitakami,1☆
-Wooper,Violet,Paldea,1☆
+Wooper (Johtonian),Scarlet,Kitakami,1☆
+Wooper (Johtonian),Shield,Galar,Den 52
+Wooper (Johtonian),Shield,Galar,Den 75
+Wooper (Johtonian),Shield,Galar,Den 9
+Wooper (Johtonian),Shield,Galar,Den 93
+Wooper (Johtonian),Shield,Isle of Armor,Den 133
+Wooper (Johtonian),Sword,Galar,Den 52
+Wooper (Johtonian),Sword,Galar,Den 75
+Wooper (Johtonian),Sword,Galar,Den 9
+Wooper (Johtonian),Sword,Galar,Den 93
+Wooper (Johtonian),Sword,Isle of Armor,Den 133
+Wooper (Johtonian),Violet,Kitakami,1☆
+Wooper (Paldean),Scarlet,Paldea,1☆
+Wooper (Paldean),Violet,Paldea,1☆
 Wugtrio,Scarlet,Paldea,4☆
 Wugtrio,Violet,Paldea,4☆
 Wynaut,Shield,Galar,Den 14
@@ -5686,17 +5698,17 @@ Xatu,Sword,Galar,Den 89
 Xerneas,Sword,Crown Tundra,Dynamax Adventure
 Xurkitree,Shield,Crown Tundra,Dynamax Adventure
 Xurkitree,Sword,Crown Tundra,Dynamax Adventure
-Yamask,Shield,Galar,Den 17
-Yamask,Shield,Galar,Den 43
-Yamask,Shield,Galar,Den 47
-Yamask,Shield,Galar,Den 52
-Yamask,Shield,Galar,Den 81
-Yamask,Shield,Galar,Den 93
-Yamask,Sword,Galar,Den 17
-Yamask,Sword,Galar,Den 43
-Yamask,Sword,Galar,Den 47
-Yamask,Sword,Galar,Den 52
-Yamask,Sword,Galar,Den 93
+Yamask (Galarian),Shield,Galar,Den 17
+Yamask (Galarian),Shield,Galar,Den 43
+Yamask (Galarian),Shield,Galar,Den 47
+Yamask (Galarian),Shield,Galar,Den 52
+Yamask (Galarian),Shield,Galar,Den 81
+Yamask (Galarian),Shield,Galar,Den 93
+Yamask (Galarian),Sword,Galar,Den 17
+Yamask (Galarian),Sword,Galar,Den 43
+Yamask (Galarian),Sword,Galar,Den 47
+Yamask (Galarian),Sword,Galar,Den 52
+Yamask (Galarian),Sword,Galar,Den 93
 Yamper,Shield,Galar,Den 25
 Yamper,Shield,Galar,Den 56
 Yamper,Shield,Galar,Den 72
@@ -5721,28 +5733,28 @@ Zapdos,Sword,Crown Tundra,Dynamax Adventure
 Zebstrika,Scarlet,Terarium,4☆
 Zebstrika,Violet,Terarium,4☆
 Zekrom,Shield,Crown Tundra,Dynamax Adventure
-Zigzagoon,Shield,Galar,Den 36
-Zigzagoon,Shield,Galar,Den 40
-Zigzagoon,Shield,Galar,Den 63
-Zigzagoon,Shield,Galar,Den 69
-Zigzagoon,Shield,Galar,Den 88
-Zigzagoon,Sword,Galar,Den 36
-Zigzagoon,Sword,Galar,Den 40
-Zigzagoon,Sword,Galar,Den 63
-Zigzagoon,Sword,Galar,Den 69
-Zigzagoon,Sword,Galar,Den 88
-Zoroark,Scarlet,Paldea,5☆
-Zoroark,Shield,Isle of Armor,Den 121
-Zoroark,Shield,Isle of Armor,Den 122
-Zoroark,Sword,Isle of Armor,Den 121
-Zoroark,Sword,Isle of Armor,Den 122
-Zoroark,Violet,Paldea,5☆
-Zorua,Scarlet,Paldea,3☆
-Zorua,Shield,Isle of Armor,Den 121
-Zorua,Shield,Isle of Armor,Den 122
-Zorua,Sword,Isle of Armor,Den 121
-Zorua,Sword,Isle of Armor,Den 122
-Zorua,Violet,Paldea,3☆
+Zigzagoon (Galarian),Shield,Galar,Den 36
+Zigzagoon (Galarian),Shield,Galar,Den 40
+Zigzagoon (Galarian),Shield,Galar,Den 63
+Zigzagoon (Galarian),Shield,Galar,Den 69
+Zigzagoon (Galarian),Shield,Galar,Den 88
+Zigzagoon (Galarian),Sword,Galar,Den 36
+Zigzagoon (Galarian),Sword,Galar,Den 40
+Zigzagoon (Galarian),Sword,Galar,Den 63
+Zigzagoon (Galarian),Sword,Galar,Den 69
+Zigzagoon (Galarian),Sword,Galar,Den 88
+Zoroark (Unovan),Scarlet,Paldea,5☆
+Zoroark (Unovan),Shield,Isle of Armor,Den 121
+Zoroark (Unovan),Shield,Isle of Armor,Den 122
+Zoroark (Unovan),Sword,Isle of Armor,Den 121
+Zoroark (Unovan),Sword,Isle of Armor,Den 122
+Zoroark (Unovan),Violet,Paldea,5☆
+Zorua (Unovan),Scarlet,Paldea,3☆
+Zorua (Unovan),Shield,Isle of Armor,Den 121
+Zorua (Unovan),Shield,Isle of Armor,Den 122
+Zorua (Unovan),Sword,Isle of Armor,Den 121
+Zorua (Unovan),Sword,Isle of Armor,Den 122
+Zorua (Unovan),Violet,Paldea,3☆
 Zubat,Shield,Crown Tundra,Den 174
 Zubat,Shield,Crown Tundra,Den 175
 Zubat,Shield,Crown Tundra,Den 176
