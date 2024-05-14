@@ -30,14 +30,11 @@ body {
 
 .options {
     border: 1px solid white;
-    display: flex;
-    flex-direction: row;
     gap: 2px;
 }
 
 .text {
     border: 1px solid white;
-    width: 35%;
 }
 
 .titletext {
@@ -58,7 +55,6 @@ body {
 
 .pokemon_options {
     border: 1px solid white;
-    width: 65%;
 }
 
 .results {
