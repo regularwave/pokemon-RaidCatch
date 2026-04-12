@@ -5,7 +5,7 @@ Shows which pokemon can be in raid dens and some info about where those dens are
 I'm trying to complete (as much as I can) a beast ball living dex. Pokemon in raids have a 100% catch rate.
 
 ## Locations
-### Sowrd & Shield
+### Sword & Shield
 Pokemon can show up in specific raid dens - Serebii's numbering is used.
 
 ### Scarlet & Violet
