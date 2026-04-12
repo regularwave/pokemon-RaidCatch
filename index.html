@@ -1,47 +1,64 @@
 <!DOCTYPE html>
-
 <html lang="en">
 
 <head>
-    <meta charset="utf=8" />
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RaidCatch</title>
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
 
     <link rel="stylesheet" href="style.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
-
-    <script src="script.js" defer></script>
 </head>
 
-<body onload="setup()">
-    <div class="container">
-        <div class="options">
-            <div class="text">
-                <div class="titletext">RaidCatch</div>
-                <div class="infotext">Trying to complete a living dex in a rare ball is a lot easier when the catch rate
-                    is 100%!</div>
-                <div class="issuestext">Issues? Report on <a href="https://github.com/regularwave/pokemon-RaidCatch"
-                        target="_blank">GitHub</a>.</div>
-            </div>
-            <div class="pokemon_options">
-                <span>Select Pokemon:</span>
-                <div>
-                    <label for="amname">A-M:</label>
-                    <input list="ampokemon" name="amname" id="amname">
-                    <datalist id="ampokemon"></datalist>
-                    <label for="nzname">N-Z:</label>
-                    <input list="nzpokemon" name="nzname" id="nzname">
-                    <datalist id="nzpokemon"></datalist>
-                    <input type="button" value="list all pokemon" onclick="button()">
+<body>
+
+    <header>
+        <h1>RaidCatch</h1>
+        <p>100% Catch Rate Finder</p>
+    </header>
+
+    <main>
+        <div id="loader">
+            <div class="spinner"></div>
+            Loading Pokédex Data...
+        </div>
+
+        <div id="error-msg"></div>
+
+        <div id="app-content" style="display: none;">
+
+            <div class="search-container">
+                <label for="pokemon-search">Search for a Pokémon</label>
+                <div class="input-wrapper">
+                    <span class="material-symbols-outlined search-icon">search</span>
+
+                    <input type="text" id="pokemon-search" placeholder="Start typing a name..." autocomplete="off">
+
+                    <button id="clear-btn" class="clear-btn" aria-label="Clear search" style="display: none;">
+                        <span class="material-symbols-outlined">ink_eraser</span>
+                    </button>
+
+                    <ul id="dropdown-list"></ul>
                 </div>
             </div>
+
+            <div id="results-container">
+                <div class="pokemon-header">
+                    <h2 class="pokemon-name" id="display-name">Select a Pokémon</h2>
+                </div>
+                <div id="forms-container">
+                </div>
+            </div>
+
         </div>
-        <div class="results" id="results">
-            <br>
-        </div>
-    </div>
+    </main>
+
+    <footer>
+        <a href="https://github.com/regularwave/pokemon-RaidCatch" target="_blank" rel="noopener noreferrer">Report an Issue on GitHub</a>
+    </footer>
+
+    <script src="script.js" defer></script>
 </body>
 
 </html>
