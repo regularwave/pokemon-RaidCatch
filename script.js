@@ -57,7 +57,8 @@ function filterDropdown(query) {
 
 function renderDropdownItems(items) {
     const fragment = document.createDocumentFragment();
-    const displayItems = items.slice(0, 150);
+    const displayItems = items;
+    // const displayItems = items.slice(0, 150);
 
     displayItems.forEach(pokemon => {
         const li = document.createElement('li');

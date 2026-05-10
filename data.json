@@ -7165,6 +7165,16 @@
 		]
 	},
 	{
+		"Name": "Darkrai",
+		"Sources": [
+			[
+				"Legends ZA",
+				"Mega Dimension",
+				"Hyperspace Newmoon Nightmare"
+			]
+		]
+	},
+	{
 		"Name": "Darmanitan",
 		"Sources": [
 			[
@@ -13153,6 +13163,11 @@
 		"Name": "Groudon",
 		"Sources": [
 			[
+				"Legends ZA",
+				"Mega Dimension",
+				"Hyperspace Desolate Land"
+			],
+			[
 				"Sword",
 				"Crown Tundra",
 				"Dynamax Adventure"
@@ -14042,6 +14057,11 @@
 	{
 		"Name": "Heatran",
 		"Sources": [
+			[
+				"Legends ZA",
+				"Mega Dimension",
+				"Hyperspace Infernal Arena"
+			],
 			[
 				"Shield",
 				"Crown Tundra",
@@ -16297,6 +16317,11 @@
 	{
 		"Name": "Kyogre",
 		"Sources": [
+			[
+				"Legends ZA",
+				"Mega Dimension",
+				"Hyperspace Primordial Sea"
+			],
 			[
 				"Shield",
 				"Crown Tundra",
@@ -23817,6 +23842,11 @@
 	{
 		"Name": "Rayquaza",
 		"Sources": [
+			[
+				"Legends ZA",
+				"Mega Dimension",
+				"Hyperspace Sky Pillar"
+			],
 			[
 				"Shield",
 				"Crown Tundra",
@@ -32850,6 +32880,16 @@
 		]
 	},
 	{
+		"Name": "Zeraora",
+		"Sources": [
+			[
+				"Legends ZA",
+				"Mega Dimension",
+				"Hyperspace Lumiose (Mystery Gift)"
+			]
+		]
+	},
+	{
 		"Name": "Zigzagoon (Galarian)",
 		"Sources": [
 			[
@@ -33037,6 +33077,11 @@
 	{
 		"Name": "Zygarde (50%)",
 		"Sources": [
+			[
+				"Legends ZA",
+				"Lumiose City",
+				"Wild Zone 20"
+			],
 			[
 				"Shield",
 				"Crown Tundra",

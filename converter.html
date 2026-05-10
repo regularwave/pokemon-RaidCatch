@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RaidCatch CSV to JSON Converter</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+
+    <style>
+        :root {
+            --primary: #dc2626;
+            --primary-hover: #b91c1c;
+            --bg-color: #f8fafc;
+            --card-bg: #ffffff;
+            --text-main: #1e293b;
+            --text-muted: #64748b;
+            --border-color: #e2e8f0;
+            --radius: 12px;
+            --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        header {
+            background-color: var(--primary);
+            color: white;
+            padding: 1.5rem;
+            text-align: center;
+            box-shadow: var(--shadow-md);
+            flex-shrink: 0;
+        }
+
+        header h1 {
+            font-size: 1.75rem;
+            font-weight: 800;
+        }
+
+        header p {
+            color: #fee2e2;
+            font-size: 0.9rem;
+            margin-top: 0.25rem;
+        }
+
+        main {
+            display: flex;
+            flex: 1;
+            padding: 2rem;
+            gap: 2rem;
+            min-height: 0;
+        }
+
+        .panel {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            background: var(--card-bg);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow-md);
+            border: 1px solid var(--border-color);
+            overflow: hidden;
+        }
+
+        .panel-header {
+            padding: 1rem 1.5rem;
+            background: #f1f5f9;
+            border-bottom: 1px solid var(--border-color);
+            font-weight: 600;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .panel-header button {
+            display: flex;
+            align-items: center;
+            gap: 0.25rem;
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 0.4rem 0.8rem;
+            border-radius: 6px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .panel-header button:hover {
+            background: var(--primary-hover);
+        }
+
+        .panel-header button .material-symbols-outlined {
+            font-size: 18px;
+        }
+
+        textarea {
+            flex: 1;
+            width: 100%;
+            padding: 1.5rem;
+            border: none;
+            resize: none;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 0.9rem;
+            line-height: 1.4;
+            color: var(--text-main);
+            outline: none;
+            white-space: pre;
+        }
+
+        #error-message {
+            display: none;
+            background-color: #fef2f2;
+            color: #991b1b;
+            padding: 1rem;
+            border-top: 1px solid #f87171;
+            font-weight: 500;
+            font-size: 0.9rem;
+        }
+
+        .status {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            font-weight: normal;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>RaidCatch Data Converter</h1>
+    </header>
+
+    <main>
+        <div class="panel">
+            <div class="panel-header">
+                <span>CSV</span>
+                <span class="status" id="csv-status">Waiting for input...</span>
+            </div>
+            <textarea id="csv-input" placeholder="Paste your CSV data here...
+Example:
+Name,Game,Area,Location
+Abomasnow,Scarlet,Paldea,5☆
+Abomasnow,Shield,Crown Tundra,Den 168
+..."></textarea>
+            <div id="error-message"></div>
+        </div>
+
+        <div class="panel">
+            <div class="panel-header">
+                <span>JSON</span>
+                <button id="copy-btn">
+                    <span class="material-symbols-outlined">content_copy</span>
+                    Copy JSON
+                </button>
+            </div>
+            <textarea id="json-output" readonly placeholder="JSON will appear here..."></textarea>
+        </div>
+    </main>
+
+    <script>
+        const csvInput = document.getElementById('csv-input');
+        const jsonOutput = document.getElementById('json-output');
+        const errorMsg = document.getElementById('error-message');
+        const csvStatus = document.getElementById('csv-status');
+        const copyBtn = document.getElementById('copy-btn');
+
+        let timeout = null;
+
+        csvInput.addEventListener('input', () => {
+            clearTimeout(timeout);
+            csvStatus.textContent = "Processing...";
+
+            timeout = setTimeout(processCSV, 300);
+        });
+
+        function processCSV() {
+            const rawText = csvInput.value.trim();
+            errorMsg.style.display = 'none';
+
+            if (!rawText) {
+                jsonOutput.value = '';
+                csvStatus.textContent = "Waiting for input...";
+                return;
+            }
+
+            try {
+                const lines = rawText.split(/\r?\n/);
+
+                if (lines.length < 2) {
+                    throw new Error("CSV needs at least a header row and one data row.");
+                }
+
+                const headerLine = lines[0];
+                const headers = splitCsvLine(headerLine).map(h => h.toLowerCase().trim());
+
+                const nameIdx = headers.indexOf('name');
+                const gameIdx = headers.indexOf('game');
+                const areaIdx = headers.indexOf('area');
+                const locIdx = headers.indexOf('location');
+
+                if (nameIdx === -1) {
+                    throw new Error("Could not find a 'Name' column in the header.");
+                }
+
+                const pokemonMap = new Map();
+
+                for (let i = 1; i < lines.length; i++) {
+                    const line = lines[i];
+                    if (!line.trim()) continue;
+
+                    const values = splitCsvLine(line);
+                    const name = values[nameIdx !== -1 ? nameIdx : 0];
+                    const game = values[gameIdx !== -1 ? gameIdx : 1] || "";
+                    const area = values[areaIdx !== -1 ? areaIdx : 2] || "";
+                    const location = values[locIdx !== -1 ? locIdx : 3] || "";
+
+                    if (!name) continue;
+
+                    if (!pokemonMap.has(name)) {
+                        pokemonMap.set(name, {
+                            Name: name,
+                            Sources: []
+                        });
+                    }
+
+                    pokemonMap.get(name).Sources.push([game, area, location]);
+                }
+
+                const resultArray = Array.from(pokemonMap.values()).sort((a, b) => a.Name.localeCompare(b.Name));
+                const formattedJson = JSON.stringify(resultArray, null, '\t');
+                jsonOutput.value = formattedJson;
+
+                const totalEntries = resultArray.length;
+                csvStatus.textContent = `Success: ${totalEntries} Pokémon parsed.`;
+                csvStatus.style.color = "#16a34a";
+
+            } catch (err) {
+                errorMsg.textContent = "Error parsing CSV: " + err.message;
+                errorMsg.style.display = 'block';
+                csvStatus.textContent = "Failed";
+                csvStatus.style.color = "#dc2626";
+            }
+        }
+
+        function splitCsvLine(text) {
+            let result = [];
+            let current = '';
+            let inQuotes = false;
+
+            for (let i = 0; i < text.length; i++) {
+                let char = text[i];
+
+                if (inQuotes) {
+                    if (char === '"') {
+                        if (i + 1 < text.length && text[i + 1] === '"') {
+                            current += '"';
+                            i++;
+                        } else {
+                            inQuotes = false;
+                        }
+                    } else {
+                        current += char;
+                    }
+                } else {
+                    if (char === '"') {
+                        inQuotes = true;
+                    } else if (char === ',') {
+                        result.push(current);
+                        current = '';
+                    } else {
+                        current += char;
+                    }
+                }
+            }
+
+            result.push(current);
+            return result.map(col => col.trim());
+        }
+
+        copyBtn.addEventListener('click', () => {
+            const output = jsonOutput.value;
+            if (!output) return;
+
+            navigator.clipboard.writeText(output).then(() => {
+                const originalText = copyBtn.innerHTML;
+                copyBtn.innerHTML = '<span class="material-symbols-outlined">check</span>Copied!';
+                copyBtn.style.background = '#16a34a';
+
+                setTimeout(() => {
+                    copyBtn.innerHTML = originalText;
+                    copyBtn.style.background = '';
+                }, 2000);
+            }).catch(err => {
+                console.error('Failed to copy!', err);
+                alert("Failed to copy to clipboard.");
+            });
+        });
+    </script>
+</body>
+
+</html>
